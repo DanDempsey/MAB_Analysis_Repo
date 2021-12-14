@@ -1,0 +1,2901 @@
+ID,question,result,expected,corrupt
+1,Declarative,Frase 1,Frase 1,FALSE
+1,Info-seeking wh-question,Frase 1,Frase 1,FALSE
+1,Info-seeking non-wh question,Frase 2,Frase 2,FALSE
+1,"Disapproval echo-question 
+(wh-to-HLP)",Frase 1,Frase 1,FALSE
+1,Object wh question,Frase 2,Frase 2,FALSE
+1,"Disapproval echo question 
+(wh-to-LLP/tutto)",Frase 2,Frase 2,FALSE
+1,"Disapproval echo question 
+(wh-to-LLP/buone)",Frase 2,Frase 2,FALSE
+1,"Unheard echo question 
+(wh-to-LLP/buone)",Frase 2,Frase 2,TRUE
+1,Yes/no question,Frase 2,Frase 2,FALSE
+1,Counter-expectational,Frase 2,Frase 2,FALSE
+1,Rhetorical question,Frase 1,Frase 1,FALSE
+1,Surprise-disapproval question,Frase 2,Frase 2,FALSE
+1,Declarative biased question,Frase 1,Frase 1,FALSE
+1,Exclamative,Frase 1,Frase 1,FALSE
+1,Can’t-find-the-value-of-x question,Frase 1,Frase 1,FALSE
+1,Subject wh-question,Frase 1,Frase 1,FALSE
+2,Declarative,Frase 1,Frase 1,FALSE
+2,Info-seeking wh-question,Frase 1,Frase 1,FALSE
+2,Info-seeking non-wh question,Frase 2,Frase 2,FALSE
+2,"Disapproval echo-question 
+(wh-to-HLP)",Frase 1,Frase 1,FALSE
+2,Object wh question,Frase 2,Frase 2,FALSE
+2,"Disapproval echo question 
+(wh-to-LLP/tutto)",Frase 2,Frase 2,FALSE
+2,"Disapproval echo question 
+(wh-to-LLP/buone)",Frase 1,Frase 2,FALSE
+2,"Unheard echo question 
+(wh-to-LLP/buone)",Frase 2,Frase 2,TRUE
+2,Yes/no question,Frase 2,Frase 2,FALSE
+2,Counter-expectational,Frase 2,Frase 2,FALSE
+2,Rhetorical question,Frase 1,Frase 1,FALSE
+2,Surprise-disapproval question,Frase 2,Frase 2,FALSE
+2,Declarative biased question,Frase 1,Frase 1,FALSE
+2,Exclamative,Frase 1,Frase 1,FALSE
+2,Can’t-find-the-value-of-x question,Frase 1,Frase 1,FALSE
+2,Subject wh-question,Frase 1,Frase 1,FALSE
+3,Declarative,Frase 1,Frase 1,FALSE
+3,Info-seeking wh-question,Frase 1,Frase 1,FALSE
+3,Info-seeking non-wh question,Frase 1,Frase 2,FALSE
+3,"Disapproval echo-question 
+(wh-to-HLP)",Frase 2,Frase 1,FALSE
+3,Object wh question,Frase 2,Frase 2,FALSE
+3,"Disapproval echo question 
+(wh-to-LLP/tutto)",Frase 2,Frase 2,FALSE
+3,"Disapproval echo question 
+(wh-to-LLP/buone)",Frase 2,Frase 2,FALSE
+3,"Unheard echo question 
+(wh-to-LLP/buone)",Frase 2,Frase 2,TRUE
+3,Yes/no question,Frase 2,Frase 2,FALSE
+3,Counter-expectational,Frase 2,Frase 2,FALSE
+3,Rhetorical question,Frase 1,Frase 1,FALSE
+3,Surprise-disapproval question,Frase 2,Frase 2,FALSE
+3,Declarative biased question,Frase 1,Frase 1,FALSE
+3,Exclamative,Frase 1,Frase 1,FALSE
+3,Can’t-find-the-value-of-x question,Frase 1,Frase 1,FALSE
+3,Subject wh-question,Frase 1,Frase 1,FALSE
+4,Declarative,Frase 1,Frase 1,FALSE
+4,Info-seeking wh-question,Frase 1,Frase 1,FALSE
+4,Info-seeking non-wh question,Frase 2,Frase 2,FALSE
+4,"Disapproval echo-question 
+(wh-to-HLP)",Frase 1,Frase 1,FALSE
+4,Object wh question,Frase 2,Frase 2,FALSE
+4,"Disapproval echo question 
+(wh-to-LLP/tutto)",Frase 2,Frase 2,FALSE
+4,"Disapproval echo question 
+(wh-to-LLP/buone)",Frase 2,Frase 2,FALSE
+4,"Unheard echo question 
+(wh-to-LLP/buone)",Frase 2,Frase 2,TRUE
+4,Yes/no question,Frase 2,Frase 2,FALSE
+4,Counter-expectational,Frase 2,Frase 2,FALSE
+4,Rhetorical question,Frase 1,Frase 1,FALSE
+4,Surprise-disapproval question,Frase 2,Frase 2,FALSE
+4,Declarative biased question,Frase 1,Frase 1,FALSE
+4,Exclamative,Frase 1,Frase 1,FALSE
+4,Can’t-find-the-value-of-x question,Frase 1,Frase 1,FALSE
+4,Subject wh-question,Frase 1,Frase 1,FALSE
+5,Declarative,Frase 1,Frase 1,FALSE
+5,Info-seeking wh-question,Frase 1,Frase 1,FALSE
+5,Info-seeking non-wh question,Frase 2,Frase 2,FALSE
+5,"Disapproval echo-question 
+(wh-to-HLP)",Frase 1,Frase 1,FALSE
+5,Object wh question,Frase 2,Frase 2,FALSE
+5,"Disapproval echo question 
+(wh-to-LLP/tutto)",Frase 2,Frase 2,FALSE
+5,"Disapproval echo question 
+(wh-to-LLP/buone)",Frase 2,Frase 2,FALSE
+5,"Unheard echo question 
+(wh-to-LLP/buone)",Frase 2,Frase 2,TRUE
+5,Yes/no question,Frase 2,Frase 2,FALSE
+5,Counter-expectational,Frase 2,Frase 2,FALSE
+5,Rhetorical question,Frase 1,Frase 1,FALSE
+5,Surprise-disapproval question,Frase 2,Frase 2,FALSE
+5,Declarative biased question,Frase 1,Frase 1,FALSE
+5,Exclamative,Frase 1,Frase 1,FALSE
+5,Can’t-find-the-value-of-x question,Frase 1,Frase 1,FALSE
+5,Subject wh-question,Frase 1,Frase 1,FALSE
+6,Declarative,Frase 1,Frase 1,FALSE
+6,Info-seeking wh-question,Frase 1,Frase 1,FALSE
+6,Info-seeking non-wh question,Frase 2,Frase 2,FALSE
+6,"Disapproval echo-question 
+(wh-to-HLP)",Frase 1,Frase 1,FALSE
+6,Object wh question,Frase 2,Frase 2,FALSE
+6,"Disapproval echo question 
+(wh-to-LLP/tutto)",Frase 2,Frase 2,FALSE
+6,"Disapproval echo question 
+(wh-to-LLP/buone)",Frase 2,Frase 2,FALSE
+6,"Unheard echo question 
+(wh-to-LLP/buone)",Frase 2,Frase 2,TRUE
+6,Yes/no question,Frase 2,Frase 2,FALSE
+6,Counter-expectational,Frase 2,Frase 2,FALSE
+6,Rhetorical question,Frase 1,Frase 1,FALSE
+6,Surprise-disapproval question,Frase 2,Frase 2,FALSE
+6,Declarative biased question,Frase 1,Frase 1,FALSE
+6,Exclamative,Frase 1,Frase 1,FALSE
+6,Can’t-find-the-value-of-x question,Frase 1,Frase 1,FALSE
+6,Subject wh-question,Frase 1,Frase 1,FALSE
+7,Declarative,Frase 1,Frase 1,FALSE
+7,Info-seeking wh-question,Frase 1,Frase 1,FALSE
+7,Info-seeking non-wh question,Frase 2,Frase 2,FALSE
+7,"Disapproval echo-question 
+(wh-to-HLP)",Frase 1,Frase 1,FALSE
+7,Object wh question,Frase 2,Frase 2,FALSE
+7,"Disapproval echo question 
+(wh-to-LLP/tutto)",Frase 2,Frase 2,FALSE
+7,"Disapproval echo question 
+(wh-to-LLP/buone)",Frase 2,Frase 2,FALSE
+7,"Unheard echo question 
+(wh-to-LLP/buone)",Frase 2,Frase 2,TRUE
+7,Yes/no question,Frase 2,Frase 2,FALSE
+7,Counter-expectational,Frase 2,Frase 2,FALSE
+7,Rhetorical question,Frase 1,Frase 1,FALSE
+7,Surprise-disapproval question,Frase 2,Frase 2,FALSE
+7,Declarative biased question,Frase 1,Frase 1,FALSE
+7,Exclamative,Frase 1,Frase 1,FALSE
+7,Can’t-find-the-value-of-x question,Frase 1,Frase 1,FALSE
+7,Subject wh-question,Frase 1,Frase 1,FALSE
+8,Declarative,Frase 1,Frase 1,FALSE
+8,Info-seeking wh-question,Frase 1,Frase 1,FALSE
+8,Info-seeking non-wh question,Frase 2,Frase 2,FALSE
+8,"Disapproval echo-question 
+(wh-to-HLP)",Frase 1,Frase 1,FALSE
+8,Object wh question,Frase 2,Frase 2,FALSE
+8,"Disapproval echo question 
+(wh-to-LLP/tutto)",Frase 2,Frase 2,FALSE
+8,"Disapproval echo question 
+(wh-to-LLP/buone)",Frase 2,Frase 2,FALSE
+8,"Unheard echo question 
+(wh-to-LLP/buone)",Frase 2,Frase 2,TRUE
+8,Yes/no question,Frase 2,Frase 2,FALSE
+8,Counter-expectational,Frase 2,Frase 2,FALSE
+8,Rhetorical question,Frase 1,Frase 1,FALSE
+8,Surprise-disapproval question,Frase 2,Frase 2,FALSE
+8,Declarative biased question,Frase 1,Frase 1,FALSE
+8,Exclamative,Frase 1,Frase 1,FALSE
+8,Can’t-find-the-value-of-x question,Frase 1,Frase 1,FALSE
+8,Subject wh-question,Frase 1,Frase 1,FALSE
+9,Declarative,Frase 1,Frase 1,FALSE
+9,Info-seeking wh-question,Frase 1,Frase 1,FALSE
+9,Info-seeking non-wh question,Frase 2,Frase 2,FALSE
+9,"Disapproval echo-question 
+(wh-to-HLP)",Frase 1,Frase 1,FALSE
+9,Object wh question,Frase 1,Frase 2,FALSE
+9,"Disapproval echo question 
+(wh-to-LLP/tutto)",Frase 2,Frase 2,FALSE
+9,"Disapproval echo question 
+(wh-to-LLP/buone)",Frase 2,Frase 2,FALSE
+9,"Unheard echo question 
+(wh-to-LLP/buone)",Frase 2,Frase 2,TRUE
+9,Yes/no question,Frase 2,Frase 2,FALSE
+9,Counter-expectational,Frase 2,Frase 2,FALSE
+9,Rhetorical question,Frase 1,Frase 1,FALSE
+9,Surprise-disapproval question,Frase 2,Frase 2,FALSE
+9,Declarative biased question,Frase 1,Frase 1,FALSE
+9,Exclamative,Frase 1,Frase 1,FALSE
+9,Can’t-find-the-value-of-x question,Frase 1,Frase 1,FALSE
+9,Subject wh-question,Frase 1,Frase 1,FALSE
+10,Declarative,Frase 1,Frase 1,FALSE
+10,Info-seeking wh-question,Frase 1,Frase 1,FALSE
+10,Info-seeking non-wh question,Frase 1,Frase 2,FALSE
+10,"Disapproval echo-question 
+(wh-to-HLP)",Frase 2,Frase 1,FALSE
+10,Object wh question,Frase 1,Frase 2,FALSE
+10,"Disapproval echo question 
+(wh-to-LLP/tutto)",Frase 2,Frase 2,FALSE
+10,"Disapproval echo question 
+(wh-to-LLP/buone)",Frase 2,Frase 2,FALSE
+10,"Unheard echo question 
+(wh-to-LLP/buone)",Frase 2,Frase 2,TRUE
+10,Yes/no question,Frase 2,Frase 2,FALSE
+10,Counter-expectational,Frase 2,Frase 2,FALSE
+10,Rhetorical question,Frase 1,Frase 1,FALSE
+10,Surprise-disapproval question,Frase 2,Frase 2,FALSE
+10,Declarative biased question,Frase 1,Frase 1,FALSE
+10,Exclamative,Frase 1,Frase 1,FALSE
+10,Can’t-find-the-value-of-x question,Frase 1,Frase 1,FALSE
+10,Subject wh-question,Frase 1,Frase 1,FALSE
+11,Declarative,Frase 1,Frase 1,FALSE
+11,Info-seeking wh-question,Frase 1,Frase 1,FALSE
+11,Info-seeking non-wh question,Frase 2,Frase 2,FALSE
+11,"Disapproval echo-question 
+(wh-to-HLP)",Frase 1,Frase 1,FALSE
+11,Object wh question,Frase 1,Frase 2,FALSE
+11,"Disapproval echo question 
+(wh-to-LLP/tutto)",Frase 2,Frase 2,FALSE
+11,"Disapproval echo question 
+(wh-to-LLP/buone)",Frase 2,Frase 2,FALSE
+11,"Unheard echo question 
+(wh-to-LLP/buone)",Frase 2,Frase 2,TRUE
+11,Yes/no question,Frase 2,Frase 2,FALSE
+11,Counter-expectational,Frase 2,Frase 2,FALSE
+11,Rhetorical question,Frase 1,Frase 1,FALSE
+11,Surprise-disapproval question,Frase 2,Frase 2,FALSE
+11,Declarative biased question,Frase 1,Frase 1,FALSE
+11,Exclamative,Frase 1,Frase 1,FALSE
+11,Can’t-find-the-value-of-x question,Frase 1,Frase 1,FALSE
+11,Subject wh-question,Frase 1,Frase 1,FALSE
+12,Declarative,Frase 1,Frase 1,FALSE
+12,Info-seeking wh-question,Frase 1,Frase 1,FALSE
+12,Info-seeking non-wh question,Frase 2,Frase 2,FALSE
+12,"Disapproval echo-question 
+(wh-to-HLP)",Frase 1,Frase 1,FALSE
+12,Object wh question,Frase 1,Frase 2,FALSE
+12,"Disapproval echo question 
+(wh-to-LLP/tutto)",Frase 2,Frase 2,FALSE
+12,"Disapproval echo question 
+(wh-to-LLP/buone)",Frase 2,Frase 2,FALSE
+12,"Unheard echo question 
+(wh-to-LLP/buone)",Frase 2,Frase 2,TRUE
+12,Yes/no question,Frase 2,Frase 2,FALSE
+12,Counter-expectational,Frase 2,Frase 2,FALSE
+12,Rhetorical question,Frase 1,Frase 1,FALSE
+12,Surprise-disapproval question,Frase 2,Frase 2,FALSE
+12,Declarative biased question,Frase 1,Frase 1,FALSE
+12,Exclamative,Frase 1,Frase 1,FALSE
+12,Can’t-find-the-value-of-x question,Frase 1,Frase 1,FALSE
+12,Subject wh-question,Frase 1,Frase 1,FALSE
+13,Declarative,Frase 1,Frase 1,FALSE
+13,Info-seeking wh-question,Frase 1,Frase 1,FALSE
+13,Info-seeking non-wh question,Frase 2,Frase 2,FALSE
+13,"Disapproval echo-question 
+(wh-to-HLP)",Frase 1,Frase 1,FALSE
+13,Object wh question,Frase 1,Frase 2,FALSE
+13,"Disapproval echo question 
+(wh-to-LLP/tutto)",Frase 2,Frase 2,FALSE
+13,"Disapproval echo question 
+(wh-to-LLP/buone)",Frase 2,Frase 2,FALSE
+13,"Unheard echo question 
+(wh-to-LLP/buone)",Frase 2,Frase 2,TRUE
+13,Yes/no question,Frase 2,Frase 2,FALSE
+13,Counter-expectational,Frase 2,Frase 2,FALSE
+13,Rhetorical question,Frase 1,Frase 1,FALSE
+13,Surprise-disapproval question,Frase 2,Frase 2,FALSE
+13,Declarative biased question,Frase 1,Frase 1,FALSE
+13,Exclamative,Frase 1,Frase 1,FALSE
+13,Can’t-find-the-value-of-x question,Frase 1,Frase 1,FALSE
+13,Subject wh-question,Frase 1,Frase 1,FALSE
+14,Declarative,Frase 1,Frase 1,FALSE
+14,Info-seeking wh-question,Frase 1,Frase 1,FALSE
+14,Info-seeking non-wh question,Frase 2,Frase 2,FALSE
+14,"Disapproval echo-question 
+(wh-to-HLP)",Frase 1,Frase 1,FALSE
+14,Object wh question,Frase 1,Frase 2,FALSE
+14,"Disapproval echo question 
+(wh-to-LLP/tutto)",Frase 2,Frase 2,FALSE
+14,"Disapproval echo question 
+(wh-to-LLP/buone)",Frase 2,Frase 2,FALSE
+14,"Unheard echo question 
+(wh-to-LLP/buone)",Frase 2,Frase 2,TRUE
+14,Yes/no question,Frase 2,Frase 2,FALSE
+14,Counter-expectational,Frase 2,Frase 2,FALSE
+14,Rhetorical question,Frase 1,Frase 1,FALSE
+14,Surprise-disapproval question,Frase 2,Frase 2,FALSE
+14,Declarative biased question,Frase 1,Frase 1,FALSE
+14,Exclamative,Frase 1,Frase 1,FALSE
+14,Can’t-find-the-value-of-x question,Frase 1,Frase 1,FALSE
+14,Subject wh-question,Frase 1,Frase 1,FALSE
+15,Declarative,Frase 1,Frase 1,FALSE
+15,Info-seeking wh-question,Frase 1,Frase 1,FALSE
+15,Info-seeking non-wh question,Frase 2,Frase 2,FALSE
+15,"Disapproval echo-question 
+(wh-to-HLP)",Frase 1,Frase 1,FALSE
+15,Object wh question,Frase 1,Frase 2,FALSE
+15,"Disapproval echo question 
+(wh-to-LLP/tutto)",Frase 2,Frase 2,FALSE
+15,"Disapproval echo question 
+(wh-to-LLP/buone)",Frase 2,Frase 2,FALSE
+15,"Unheard echo question 
+(wh-to-LLP/buone)",Frase 2,Frase 2,TRUE
+15,Yes/no question,Frase 2,Frase 2,FALSE
+15,Counter-expectational,Frase 2,Frase 2,FALSE
+15,Rhetorical question,Frase 1,Frase 1,FALSE
+15,Surprise-disapproval question,Frase 2,Frase 2,FALSE
+15,Declarative biased question,Frase 1,Frase 1,FALSE
+15,Exclamative,Frase 1,Frase 1,FALSE
+15,Can’t-find-the-value-of-x question,Frase 1,Frase 1,FALSE
+15,Subject wh-question,Frase 1,Frase 1,FALSE
+16,Declarative,Frase 1,Frase 1,FALSE
+16,Info-seeking wh-question,Frase 1,Frase 1,FALSE
+16,Info-seeking non-wh question,Frase 2,Frase 2,FALSE
+16,"Disapproval echo-question 
+(wh-to-HLP)",Frase 1,Frase 1,FALSE
+16,Object wh question,Frase 1,Frase 2,FALSE
+16,"Disapproval echo question 
+(wh-to-LLP/tutto)",Frase 2,Frase 2,FALSE
+16,"Disapproval echo question 
+(wh-to-LLP/buone)",Frase 2,Frase 2,FALSE
+16,"Unheard echo question 
+(wh-to-LLP/buone)",Frase 2,Frase 2,TRUE
+16,Yes/no question,Frase 2,Frase 2,FALSE
+16,Counter-expectational,Frase 2,Frase 2,FALSE
+16,Rhetorical question,Frase 1,Frase 1,FALSE
+16,Surprise-disapproval question,Frase 2,Frase 2,FALSE
+16,Declarative biased question,Frase 1,Frase 1,FALSE
+16,Exclamative,Frase 1,Frase 1,FALSE
+16,Can’t-find-the-value-of-x question,Frase 1,Frase 1,FALSE
+16,Subject wh-question,Frase 1,Frase 1,FALSE
+17,Declarative,Frase 1,Frase 1,FALSE
+17,Info-seeking wh-question,Frase 1,Frase 1,FALSE
+17,Info-seeking non-wh question,Frase 2,Frase 2,FALSE
+17,"Disapproval echo-question 
+(wh-to-HLP)",Frase 1,Frase 1,FALSE
+17,Object wh question,Frase 1,Frase 2,FALSE
+17,"Disapproval echo question 
+(wh-to-LLP/tutto)",Frase 2,Frase 2,FALSE
+17,"Disapproval echo question 
+(wh-to-LLP/buone)",Frase 2,Frase 2,FALSE
+17,"Unheard echo question 
+(wh-to-LLP/buone)",Frase 2,Frase 2,TRUE
+17,Yes/no question,Frase 2,Frase 2,FALSE
+17,Counter-expectational,Frase 2,Frase 2,FALSE
+17,Rhetorical question,Frase 1,Frase 1,FALSE
+17,Surprise-disapproval question,Frase 2,Frase 2,FALSE
+17,Declarative biased question,Frase 1,Frase 1,FALSE
+17,Exclamative,Frase 1,Frase 1,FALSE
+17,Can’t-find-the-value-of-x question,Frase 1,Frase 1,FALSE
+17,Subject wh-question,Frase 1,Frase 1,FALSE
+18,Declarative,Frase 1,Frase 1,FALSE
+18,Info-seeking wh-question,Frase 1,Frase 1,FALSE
+18,Info-seeking non-wh question,Frase 2,Frase 2,FALSE
+18,"Disapproval echo-question 
+(wh-to-HLP)",Frase 1,Frase 1,FALSE
+18,Object wh question,Frase 1,Frase 2,FALSE
+18,"Disapproval echo question 
+(wh-to-LLP/tutto)",Frase 2,Frase 2,FALSE
+18,"Disapproval echo question 
+(wh-to-LLP/buone)",Frase 2,Frase 2,FALSE
+18,"Unheard echo question 
+(wh-to-LLP/buone)",Frase 2,Frase 2,TRUE
+18,Yes/no question,Frase 2,Frase 2,FALSE
+18,Counter-expectational,Frase 2,Frase 2,FALSE
+18,Rhetorical question,Frase 1,Frase 1,FALSE
+18,Surprise-disapproval question,Frase 2,Frase 2,FALSE
+18,Declarative biased question,Frase 1,Frase 1,FALSE
+18,Exclamative,Frase 1,Frase 1,FALSE
+18,Can’t-find-the-value-of-x question,Frase 1,Frase 1,FALSE
+18,Subject wh-question,Frase 1,Frase 1,FALSE
+19,Declarative,Frase 1,Frase 1,FALSE
+19,Info-seeking wh-question,Frase 1,Frase 1,FALSE
+19,Info-seeking non-wh question,Frase 2,Frase 2,FALSE
+19,"Disapproval echo-question 
+(wh-to-HLP)",Frase 1,Frase 1,FALSE
+19,Object wh question,Frase 1,Frase 2,FALSE
+19,"Disapproval echo question 
+(wh-to-LLP/tutto)",Frase 1,Frase 2,FALSE
+19,"Disapproval echo question 
+(wh-to-LLP/buone)",Frase 2,Frase 2,FALSE
+19,"Unheard echo question 
+(wh-to-LLP/buone)",Frase 2,Frase 2,TRUE
+19,Yes/no question,Frase 2,Frase 2,FALSE
+19,Counter-expectational,Frase 2,Frase 2,FALSE
+19,Rhetorical question,Frase 1,Frase 1,FALSE
+19,Surprise-disapproval question,Frase 2,Frase 2,FALSE
+19,Declarative biased question,Frase 1,Frase 1,FALSE
+19,Exclamative,Frase 1,Frase 1,FALSE
+19,Can’t-find-the-value-of-x question,Frase 1,Frase 1,FALSE
+19,Subject wh-question,Frase 1,Frase 1,FALSE
+20,Declarative,Frase 1,Frase 1,FALSE
+20,Info-seeking wh-question,Frase 1,Frase 1,FALSE
+20,Info-seeking non-wh question,Frase 2,Frase 2,FALSE
+20,"Disapproval echo-question 
+(wh-to-HLP)",Frase 1,Frase 1,FALSE
+20,Object wh question,Frase 1,Frase 2,FALSE
+20,"Disapproval echo question 
+(wh-to-LLP/tutto)",Frase 2,Frase 2,FALSE
+20,"Disapproval echo question 
+(wh-to-LLP/buone)",Frase 2,Frase 2,FALSE
+20,"Unheard echo question 
+(wh-to-LLP/buone)",Frase 2,Frase 2,TRUE
+20,Yes/no question,Frase 2,Frase 2,FALSE
+20,Counter-expectational,Frase 2,Frase 2,FALSE
+20,Rhetorical question,Frase 1,Frase 1,FALSE
+20,Surprise-disapproval question,Frase 2,Frase 2,FALSE
+20,Declarative biased question,Frase 1,Frase 1,FALSE
+20,Exclamative,Frase 1,Frase 1,FALSE
+20,Can’t-find-the-value-of-x question,Frase 1,Frase 1,FALSE
+20,Subject wh-question,Frase 1,Frase 1,FALSE
+21,Declarative,Frase 1,Frase 1,FALSE
+21,Info-seeking wh-question,Frase 1,Frase 1,FALSE
+21,Info-seeking non-wh question,Frase 2,Frase 2,FALSE
+21,"Disapproval echo-question 
+(wh-to-HLP)",Frase 1,Frase 1,FALSE
+21,Object wh question,Frase 1,Frase 2,FALSE
+21,"Disapproval echo question 
+(wh-to-LLP/tutto)",Frase 2,Frase 2,FALSE
+21,"Disapproval echo question 
+(wh-to-LLP/buone)",Frase 2,Frase 2,FALSE
+21,"Unheard echo question 
+(wh-to-LLP/buone)",Frase 2,Frase 2,TRUE
+21,Yes/no question,Frase 2,Frase 2,FALSE
+21,Counter-expectational,Frase 2,Frase 2,FALSE
+21,Rhetorical question,Frase 1,Frase 1,FALSE
+21,Surprise-disapproval question,Frase 2,Frase 2,FALSE
+21,Declarative biased question,Frase 1,Frase 1,FALSE
+21,Exclamative,Frase 1,Frase 1,FALSE
+21,Can’t-find-the-value-of-x question,Frase 1,Frase 1,FALSE
+21,Subject wh-question,Frase 1,Frase 1,FALSE
+22,Declarative,Frase 1,Frase 1,FALSE
+22,Info-seeking wh-question,Frase 1,Frase 1,FALSE
+22,Info-seeking non-wh question,Frase 2,Frase 2,FALSE
+22,"Disapproval echo-question 
+(wh-to-HLP)",Frase 1,Frase 1,FALSE
+22,Object wh question,Frase 1,Frase 2,FALSE
+22,"Disapproval echo question 
+(wh-to-LLP/tutto)",Frase 2,Frase 2,FALSE
+22,"Disapproval echo question 
+(wh-to-LLP/buone)",Frase 2,Frase 2,FALSE
+22,"Unheard echo question 
+(wh-to-LLP/buone)",Frase 2,Frase 2,TRUE
+22,Yes/no question,Frase 2,Frase 2,FALSE
+22,Counter-expectational,Frase 2,Frase 2,FALSE
+22,Rhetorical question,Frase 1,Frase 1,FALSE
+22,Surprise-disapproval question,Frase 2,Frase 2,FALSE
+22,Declarative biased question,Frase 1,Frase 1,FALSE
+22,Exclamative,Frase 1,Frase 1,FALSE
+22,Can’t-find-the-value-of-x question,Frase 1,Frase 1,FALSE
+22,Subject wh-question,Frase 1,Frase 1,FALSE
+23,Declarative,Frase 1,Frase 1,FALSE
+23,Info-seeking wh-question,Frase 1,Frase 1,FALSE
+23,Info-seeking non-wh question,Frase 2,Frase 2,FALSE
+23,"Disapproval echo-question 
+(wh-to-HLP)",Frase 1,Frase 1,FALSE
+23,Object wh question,Frase 1,Frase 2,FALSE
+23,"Disapproval echo question 
+(wh-to-LLP/tutto)",Frase 2,Frase 2,FALSE
+23,"Disapproval echo question 
+(wh-to-LLP/buone)",Frase 2,Frase 2,FALSE
+23,"Unheard echo question 
+(wh-to-LLP/buone)",Frase 2,Frase 2,TRUE
+23,Yes/no question,Frase 2,Frase 2,FALSE
+23,Counter-expectational,Frase 2,Frase 2,FALSE
+23,Rhetorical question,Frase 1,Frase 1,FALSE
+23,Surprise-disapproval question,Frase 2,Frase 2,FALSE
+23,Declarative biased question,Frase 1,Frase 1,FALSE
+23,Exclamative,Frase 1,Frase 1,FALSE
+23,Can’t-find-the-value-of-x question,Frase 1,Frase 1,FALSE
+23,Subject wh-question,Frase 1,Frase 1,FALSE
+24,Declarative,Frase 1,Frase 1,FALSE
+24,Info-seeking wh-question,Frase 1,Frase 1,FALSE
+24,Info-seeking non-wh question,Frase 2,Frase 2,FALSE
+24,"Disapproval echo-question 
+(wh-to-HLP)",Frase 1,Frase 1,FALSE
+24,Object wh question,Frase 1,Frase 2,FALSE
+24,"Disapproval echo question 
+(wh-to-LLP/tutto)",Frase 2,Frase 2,FALSE
+24,"Disapproval echo question 
+(wh-to-LLP/buone)",Frase 2,Frase 2,FALSE
+24,"Unheard echo question 
+(wh-to-LLP/buone)",Frase 2,Frase 2,TRUE
+24,Yes/no question,Frase 2,Frase 2,FALSE
+24,Counter-expectational,Frase 2,Frase 2,FALSE
+24,Rhetorical question,Frase 1,Frase 1,FALSE
+24,Surprise-disapproval question,Frase 2,Frase 2,FALSE
+24,Declarative biased question,Frase 1,Frase 1,FALSE
+24,Exclamative,Frase 1,Frase 1,FALSE
+24,Can’t-find-the-value-of-x question,Frase 1,Frase 1,FALSE
+24,Subject wh-question,Frase 1,Frase 1,FALSE
+25,Declarative,Frase 1,Frase 1,FALSE
+25,Info-seeking wh-question,Frase 1,Frase 1,FALSE
+25,Info-seeking non-wh question,Frase 2,Frase 2,FALSE
+25,"Disapproval echo-question 
+(wh-to-HLP)",Frase 1,Frase 1,FALSE
+25,Object wh question,Frase 1,Frase 2,FALSE
+25,"Disapproval echo question 
+(wh-to-LLP/tutto)",Frase 2,Frase 2,FALSE
+25,"Disapproval echo question 
+(wh-to-LLP/buone)",Frase 2,Frase 2,FALSE
+25,"Unheard echo question 
+(wh-to-LLP/buone)",Frase 2,Frase 2,TRUE
+25,Yes/no question,Frase 2,Frase 2,FALSE
+25,Counter-expectational,Frase 2,Frase 2,FALSE
+25,Rhetorical question,Frase 1,Frase 1,FALSE
+25,Surprise-disapproval question,Frase 2,Frase 2,FALSE
+25,Declarative biased question,Frase 1,Frase 1,FALSE
+25,Exclamative,Frase 1,Frase 1,FALSE
+25,Can’t-find-the-value-of-x question,Frase 1,Frase 1,FALSE
+25,Subject wh-question,Frase 1,Frase 1,FALSE
+26,Declarative,Frase 1,Frase 1,FALSE
+26,Info-seeking wh-question,Frase 1,Frase 1,FALSE
+26,Info-seeking non-wh question,Frase 2,Frase 2,FALSE
+26,"Disapproval echo-question 
+(wh-to-HLP)",Frase 1,Frase 1,FALSE
+26,Object wh question,Frase 1,Frase 2,FALSE
+26,"Disapproval echo question 
+(wh-to-LLP/tutto)",Frase 2,Frase 2,FALSE
+26,"Disapproval echo question 
+(wh-to-LLP/buone)",Frase 2,Frase 2,FALSE
+26,"Unheard echo question 
+(wh-to-LLP/buone)",Frase 2,Frase 2,TRUE
+26,Yes/no question,Frase 2,Frase 2,FALSE
+26,Counter-expectational,Frase 2,Frase 2,FALSE
+26,Rhetorical question,Frase 1,Frase 1,FALSE
+26,Surprise-disapproval question,Frase 2,Frase 2,FALSE
+26,Declarative biased question,Frase 1,Frase 1,FALSE
+26,Exclamative,Frase 1,Frase 1,FALSE
+26,Can’t-find-the-value-of-x question,Frase 1,Frase 1,FALSE
+26,Subject wh-question,Frase 1,Frase 1,FALSE
+27,Declarative,Frase 1,Frase 1,FALSE
+27,Info-seeking wh-question,Frase 1,Frase 1,FALSE
+27,Info-seeking non-wh question,Frase 2,Frase 2,FALSE
+27,"Disapproval echo-question 
+(wh-to-HLP)",Frase 1,Frase 1,FALSE
+27,Object wh question,Frase 1,Frase 2,FALSE
+27,"Disapproval echo question 
+(wh-to-LLP/tutto)",Frase 2,Frase 2,FALSE
+27,"Disapproval echo question 
+(wh-to-LLP/buone)",Frase 2,Frase 2,FALSE
+27,"Unheard echo question 
+(wh-to-LLP/buone)",Frase 2,Frase 2,TRUE
+27,Yes/no question,Frase 2,Frase 2,FALSE
+27,Counter-expectational,Frase 2,Frase 2,FALSE
+27,Rhetorical question,Frase 1,Frase 1,FALSE
+27,Surprise-disapproval question,Frase 2,Frase 2,FALSE
+27,Declarative biased question,Frase 1,Frase 1,FALSE
+27,Exclamative,Frase 1,Frase 1,FALSE
+27,Can’t-find-the-value-of-x question,Frase 1,Frase 1,FALSE
+27,Subject wh-question,Frase 1,Frase 1,FALSE
+28,Declarative,Frase 1,Frase 1,FALSE
+28,Info-seeking wh-question,Frase 1,Frase 1,FALSE
+28,Info-seeking non-wh question,Frase 2,Frase 2,FALSE
+28,"Disapproval echo-question 
+(wh-to-HLP)",Frase 1,Frase 1,FALSE
+28,Object wh question,Frase 2,Frase 2,FALSE
+28,"Disapproval echo question 
+(wh-to-LLP/tutto)",Frase 2,Frase 2,FALSE
+28,"Disapproval echo question 
+(wh-to-LLP/buone)",Frase 2,Frase 2,FALSE
+28,"Unheard echo question 
+(wh-to-LLP/buone)",Frase 2,Frase 2,TRUE
+28,Yes/no question,Frase 2,Frase 2,FALSE
+28,Counter-expectational,Frase 2,Frase 2,FALSE
+28,Rhetorical question,Frase 1,Frase 1,FALSE
+28,Surprise-disapproval question,Frase 2,Frase 2,FALSE
+28,Declarative biased question,Frase 1,Frase 1,FALSE
+28,Exclamative,Frase 1,Frase 1,FALSE
+28,Can’t-find-the-value-of-x question,Frase 1,Frase 1,FALSE
+28,Subject wh-question,Frase 1,Frase 1,FALSE
+29,Declarative,Frase 1,Frase 1,FALSE
+29,Info-seeking wh-question,Frase 1,Frase 1,FALSE
+29,Info-seeking non-wh question,Frase 2,Frase 2,FALSE
+29,"Disapproval echo-question 
+(wh-to-HLP)",Frase 1,Frase 1,FALSE
+29,Object wh question,Frase 2,Frase 2,FALSE
+29,"Disapproval echo question 
+(wh-to-LLP/tutto)",Frase 2,Frase 2,FALSE
+29,"Disapproval echo question 
+(wh-to-LLP/buone)",Frase 2,Frase 2,FALSE
+29,"Unheard echo question 
+(wh-to-LLP/buone)",Frase 2,Frase 2,TRUE
+29,Yes/no question,Frase 2,Frase 2,FALSE
+29,Counter-expectational,Frase 2,Frase 2,FALSE
+29,Rhetorical question,Frase 2,Frase 1,FALSE
+29,Surprise-disapproval question,Frase 1,Frase 2,FALSE
+29,Declarative biased question,Frase 2,Frase 1,FALSE
+29,Exclamative,Frase 1,Frase 1,FALSE
+29,Can’t-find-the-value-of-x question,Frase 1,Frase 1,FALSE
+29,Subject wh-question,Frase 1,Frase 1,FALSE
+30,Declarative,Frase 1,Frase 1,FALSE
+30,Info-seeking wh-question,Frase 1,Frase 1,FALSE
+30,Info-seeking non-wh question,Frase 2,Frase 2,FALSE
+30,"Disapproval echo-question 
+(wh-to-HLP)",Frase 1,Frase 1,FALSE
+30,Object wh question,Frase 2,Frase 2,FALSE
+30,"Disapproval echo question 
+(wh-to-LLP/tutto)",Frase 2,Frase 2,FALSE
+30,"Disapproval echo question 
+(wh-to-LLP/buone)",Frase 2,Frase 2,FALSE
+30,"Unheard echo question 
+(wh-to-LLP/buone)",Frase 2,Frase 2,TRUE
+30,Yes/no question,Frase 2,Frase 2,FALSE
+30,Counter-expectational,Frase 2,Frase 2,FALSE
+30,Rhetorical question,Frase 1,Frase 1,FALSE
+30,Surprise-disapproval question,Frase 2,Frase 2,FALSE
+30,Declarative biased question,Frase 1,Frase 1,FALSE
+30,Exclamative,Frase 1,Frase 1,FALSE
+30,Can’t-find-the-value-of-x question,Frase 1,Frase 1,FALSE
+30,Subject wh-question,Frase 1,Frase 1,FALSE
+31,Declarative,Frase 1,Frase 1,FALSE
+31,Info-seeking wh-question,Frase 1,Frase 1,FALSE
+31,Info-seeking non-wh question,Frase 2,Frase 2,FALSE
+31,"Disapproval echo-question 
+(wh-to-HLP)",Frase 1,Frase 1,FALSE
+31,Object wh question,Frase 2,Frase 2,FALSE
+31,"Disapproval echo question 
+(wh-to-LLP/tutto)",Frase 2,Frase 2,FALSE
+31,"Disapproval echo question 
+(wh-to-LLP/buone)",Frase 2,Frase 2,FALSE
+31,"Unheard echo question 
+(wh-to-LLP/buone)",Frase 2,Frase 2,TRUE
+31,Yes/no question,Frase 2,Frase 2,FALSE
+31,Counter-expectational,Frase 2,Frase 2,FALSE
+31,Rhetorical question,Frase 1,Frase 1,FALSE
+31,Surprise-disapproval question,Frase 2,Frase 2,FALSE
+31,Declarative biased question,Frase 2,Frase 1,FALSE
+31,Exclamative,Frase 1,Frase 1,FALSE
+31,Can’t-find-the-value-of-x question,Frase 1,Frase 1,FALSE
+31,Subject wh-question,Frase 1,Frase 1,FALSE
+32,Declarative,Frase 1,Frase 1,FALSE
+32,Info-seeking wh-question,Frase 1,Frase 1,FALSE
+32,Info-seeking non-wh question,Frase 2,Frase 2,FALSE
+32,"Disapproval echo-question 
+(wh-to-HLP)",Frase 1,Frase 1,FALSE
+32,Object wh question,Frase 2,Frase 2,FALSE
+32,"Disapproval echo question 
+(wh-to-LLP/tutto)",Frase 2,Frase 2,FALSE
+32,"Disapproval echo question 
+(wh-to-LLP/buone)",Frase 1,Frase 2,FALSE
+32,"Unheard echo question 
+(wh-to-LLP/buone)",Frase 2,Frase 2,TRUE
+32,Yes/no question,Frase 2,Frase 2,FALSE
+32,Counter-expectational,Frase 2,Frase 2,FALSE
+32,Rhetorical question,Frase 1,Frase 1,FALSE
+32,Surprise-disapproval question,Frase 2,Frase 2,FALSE
+32,Declarative biased question,Frase 1,Frase 1,FALSE
+32,Exclamative,Frase 1,Frase 1,FALSE
+32,Can’t-find-the-value-of-x question,Frase 1,Frase 1,FALSE
+32,Subject wh-question,Frase 2,Frase 1,FALSE
+33,Declarative,Frase 1,Frase 1,FALSE
+33,Info-seeking wh-question,Frase 1,Frase 1,FALSE
+33,Info-seeking non-wh question,Frase 2,Frase 2,FALSE
+33,"Disapproval echo-question 
+(wh-to-HLP)",Frase 1,Frase 1,FALSE
+33,Object wh question,Frase 2,Frase 2,FALSE
+33,"Disapproval echo question 
+(wh-to-LLP/tutto)",Frase 2,Frase 2,FALSE
+33,"Disapproval echo question 
+(wh-to-LLP/buone)",Frase 1,Frase 2,FALSE
+33,"Unheard echo question 
+(wh-to-LLP/buone)",Frase 2,Frase 2,TRUE
+33,Yes/no question,Frase 2,Frase 2,FALSE
+33,Counter-expectational,Frase 2,Frase 2,FALSE
+33,Rhetorical question,Frase 1,Frase 1,FALSE
+33,Surprise-disapproval question,Frase 2,Frase 2,FALSE
+33,Declarative biased question,Frase 1,Frase 1,FALSE
+33,Exclamative,Frase 1,Frase 1,FALSE
+33,Can’t-find-the-value-of-x question,Frase 1,Frase 1,FALSE
+33,Subject wh-question,Frase 1,Frase 1,FALSE
+34,Declarative,Frase 1,Frase 1,FALSE
+34,Info-seeking wh-question,Frase 1,Frase 1,FALSE
+34,Info-seeking non-wh question,Frase 2,Frase 2,FALSE
+34,"Disapproval echo-question 
+(wh-to-HLP)",Frase 1,Frase 1,FALSE
+34,Object wh question,Frase 2,Frase 2,FALSE
+34,"Disapproval echo question 
+(wh-to-LLP/tutto)",Frase 2,Frase 2,FALSE
+34,"Disapproval echo question 
+(wh-to-LLP/buone)",Frase 2,Frase 2,FALSE
+34,"Unheard echo question 
+(wh-to-LLP/buone)",Frase 2,Frase 2,TRUE
+34,Yes/no question,Frase 2,Frase 2,FALSE
+34,Counter-expectational,Frase 2,Frase 2,FALSE
+34,Rhetorical question,Frase 1,Frase 1,FALSE
+34,Surprise-disapproval question,Frase 2,Frase 2,FALSE
+34,Declarative biased question,Frase 1,Frase 1,FALSE
+34,Exclamative,Frase 1,Frase 1,FALSE
+34,Can’t-find-the-value-of-x question,Frase 1,Frase 1,FALSE
+34,Subject wh-question,Frase 2,Frase 1,FALSE
+35,Declarative,Frase 1,Frase 1,FALSE
+35,Info-seeking wh-question,Frase 1,Frase 1,FALSE
+35,Info-seeking non-wh question,Frase 2,Frase 2,FALSE
+35,"Disapproval echo-question 
+(wh-to-HLP)",Frase 1,Frase 1,FALSE
+35,Object wh question,Frase 2,Frase 2,FALSE
+35,"Disapproval echo question 
+(wh-to-LLP/tutto)",Frase 2,Frase 2,FALSE
+35,"Disapproval echo question 
+(wh-to-LLP/buone)",Frase 2,Frase 2,FALSE
+35,"Unheard echo question 
+(wh-to-LLP/buone)",Frase 2,Frase 2,TRUE
+35,Yes/no question,Frase 2,Frase 2,FALSE
+35,Counter-expectational,Frase 2,Frase 2,FALSE
+35,Rhetorical question,Frase 1,Frase 1,FALSE
+35,Surprise-disapproval question,Frase 2,Frase 2,FALSE
+35,Declarative biased question,Frase 1,Frase 1,FALSE
+35,Exclamative,Frase 1,Frase 1,FALSE
+35,Can’t-find-the-value-of-x question,Frase 1,Frase 1,FALSE
+35,Subject wh-question,Frase 1,Frase 1,FALSE
+36,Declarative,Frase 2,Frase 1,FALSE
+36,Info-seeking wh-question,Frase 1,Frase 1,FALSE
+36,Info-seeking non-wh question,Frase 2,Frase 2,FALSE
+36,"Disapproval echo-question 
+(wh-to-HLP)",Frase 1,Frase 1,FALSE
+36,Object wh question,Frase 2,Frase 2,FALSE
+36,"Disapproval echo question 
+(wh-to-LLP/tutto)",Frase 1,Frase 2,FALSE
+36,"Disapproval echo question 
+(wh-to-LLP/buone)",Frase 2,Frase 2,FALSE
+36,"Unheard echo question 
+(wh-to-LLP/buone)",Frase 2,Frase 2,TRUE
+36,Yes/no question,Frase 2,Frase 2,FALSE
+36,Counter-expectational,Frase 2,Frase 2,FALSE
+36,Rhetorical question,Frase 1,Frase 1,FALSE
+36,Surprise-disapproval question,Frase 2,Frase 2,FALSE
+36,Declarative biased question,Frase 1,Frase 1,FALSE
+36,Exclamative,Frase 1,Frase 1,FALSE
+36,Can’t-find-the-value-of-x question,Frase 1,Frase 1,FALSE
+36,Subject wh-question,Frase 1,Frase 1,FALSE
+37,Declarative,Frase 1,Frase 1,FALSE
+37,Info-seeking wh-question,Frase 1,Frase 1,FALSE
+37,Info-seeking non-wh question,Frase 2,Frase 2,FALSE
+37,"Disapproval echo-question 
+(wh-to-HLP)",Frase 1,Frase 1,FALSE
+37,Object wh question,Frase 2,Frase 2,FALSE
+37,"Disapproval echo question 
+(wh-to-LLP/tutto)",Frase 2,Frase 2,FALSE
+37,"Disapproval echo question 
+(wh-to-LLP/buone)",Frase 1,Frase 2,FALSE
+37,"Unheard echo question 
+(wh-to-LLP/buone)",Frase 2,Frase 2,TRUE
+37,Yes/no question,Frase 2,Frase 2,FALSE
+37,Counter-expectational,Frase 2,Frase 2,FALSE
+37,Rhetorical question,Frase 1,Frase 1,FALSE
+37,Surprise-disapproval question,Frase 2,Frase 2,FALSE
+37,Declarative biased question,Frase 2,Frase 1,FALSE
+37,Exclamative,Frase 1,Frase 1,FALSE
+37,Can’t-find-the-value-of-x question,Frase 1,Frase 1,FALSE
+37,Subject wh-question,Frase 1,Frase 1,FALSE
+38,Declarative,Frase 1,Frase 1,FALSE
+38,Info-seeking wh-question,Frase 1,Frase 1,FALSE
+38,Info-seeking non-wh question,Frase 2,Frase 2,FALSE
+38,"Disapproval echo-question 
+(wh-to-HLP)",Frase 1,Frase 1,FALSE
+38,Object wh question,Frase 2,Frase 2,FALSE
+38,"Disapproval echo question 
+(wh-to-LLP/tutto)",Frase 2,Frase 2,FALSE
+38,"Disapproval echo question 
+(wh-to-LLP/buone)",Frase 2,Frase 2,FALSE
+38,"Unheard echo question 
+(wh-to-LLP/buone)",Frase 2,Frase 2,TRUE
+38,Yes/no question,Frase 2,Frase 2,FALSE
+38,Counter-expectational,Frase 2,Frase 2,FALSE
+38,Rhetorical question,Frase 1,Frase 1,FALSE
+38,Surprise-disapproval question,Frase 2,Frase 2,FALSE
+38,Declarative biased question,Frase 2,Frase 1,FALSE
+38,Exclamative,Frase 1,Frase 1,FALSE
+38,Can’t-find-the-value-of-x question,Frase 1,Frase 1,FALSE
+38,Subject wh-question,Frase 1,Frase 1,FALSE
+39,Declarative,Frase 1,Frase 1,FALSE
+39,Info-seeking wh-question,Frase 1,Frase 1,FALSE
+39,Info-seeking non-wh question,Frase 2,Frase 2,FALSE
+39,"Disapproval echo-question 
+(wh-to-HLP)",Frase 1,Frase 1,FALSE
+39,Object wh question,Frase 2,Frase 2,FALSE
+39,"Disapproval echo question 
+(wh-to-LLP/tutto)",Frase 2,Frase 2,FALSE
+39,"Disapproval echo question 
+(wh-to-LLP/buone)",Frase 2,Frase 2,FALSE
+39,"Unheard echo question 
+(wh-to-LLP/buone)",Frase 2,Frase 2,TRUE
+39,Yes/no question,Frase 2,Frase 2,FALSE
+39,Counter-expectational,Frase 2,Frase 2,FALSE
+39,Rhetorical question,Frase 1,Frase 1,FALSE
+39,Surprise-disapproval question,Frase 2,Frase 2,FALSE
+39,Declarative biased question,Frase 1,Frase 1,FALSE
+39,Exclamative,Frase 1,Frase 1,FALSE
+39,Can’t-find-the-value-of-x question,Frase 1,Frase 1,FALSE
+39,Subject wh-question,Frase 1,Frase 1,FALSE
+40,Declarative,Frase 1,Frase 1,FALSE
+40,Info-seeking wh-question,Frase 1,Frase 1,FALSE
+40,Info-seeking non-wh question,Frase 2,Frase 2,FALSE
+40,"Disapproval echo-question 
+(wh-to-HLP)",Frase 1,Frase 1,FALSE
+40,Object wh question,Frase 2,Frase 2,FALSE
+40,"Disapproval echo question 
+(wh-to-LLP/tutto)",Frase 2,Frase 2,FALSE
+40,"Disapproval echo question 
+(wh-to-LLP/buone)",Frase 2,Frase 2,FALSE
+40,"Unheard echo question 
+(wh-to-LLP/buone)",Frase 2,Frase 2,TRUE
+40,Yes/no question,Frase 2,Frase 2,FALSE
+40,Counter-expectational,Frase 2,Frase 2,FALSE
+40,Rhetorical question,Frase 1,Frase 1,FALSE
+40,Surprise-disapproval question,Frase 2,Frase 2,FALSE
+40,Declarative biased question,Frase 1,Frase 1,FALSE
+40,Exclamative,Frase 1,Frase 1,FALSE
+40,Can’t-find-the-value-of-x question,Frase 1,Frase 1,FALSE
+40,Subject wh-question,Frase 1,Frase 1,FALSE
+41,Declarative,Frase 1,Frase 1,FALSE
+41,Info-seeking wh-question,Frase 1,Frase 1,FALSE
+41,Info-seeking non-wh question,Frase 2,Frase 2,FALSE
+41,"Disapproval echo-question 
+(wh-to-HLP)",Frase 1,Frase 1,FALSE
+41,Object wh question,Frase 2,Frase 2,FALSE
+41,"Disapproval echo question 
+(wh-to-LLP/tutto)",Frase 2,Frase 2,FALSE
+41,"Disapproval echo question 
+(wh-to-LLP/buone)",Frase 2,Frase 2,FALSE
+41,"Unheard echo question 
+(wh-to-LLP/buone)",Frase 2,Frase 2,TRUE
+41,Yes/no question,Frase 2,Frase 2,FALSE
+41,Counter-expectational,Frase 2,Frase 2,FALSE
+41,Rhetorical question,Frase 1,Frase 1,FALSE
+41,Surprise-disapproval question,Frase 2,Frase 2,FALSE
+41,Declarative biased question,Frase 1,Frase 1,FALSE
+41,Exclamative,Frase 1,Frase 1,FALSE
+41,Can’t-find-the-value-of-x question,Frase 1,Frase 1,FALSE
+41,Subject wh-question,Frase 1,Frase 1,FALSE
+42,Declarative,Frase 1,Frase 1,FALSE
+42,Info-seeking wh-question,Frase 1,Frase 1,FALSE
+42,Info-seeking non-wh question,Frase 2,Frase 2,FALSE
+42,"Disapproval echo-question 
+(wh-to-HLP)",Frase 1,Frase 1,FALSE
+42,Object wh question,Frase 2,Frase 2,FALSE
+42,"Disapproval echo question 
+(wh-to-LLP/tutto)",Frase 2,Frase 2,FALSE
+42,"Disapproval echo question 
+(wh-to-LLP/buone)",Frase 2,Frase 2,FALSE
+42,"Unheard echo question 
+(wh-to-LLP/buone)",Frase 2,Frase 2,TRUE
+42,Yes/no question,Frase 2,Frase 2,FALSE
+42,Counter-expectational,Frase 2,Frase 2,FALSE
+42,Rhetorical question,Frase 1,Frase 1,FALSE
+42,Surprise-disapproval question,Frase 2,Frase 2,FALSE
+42,Declarative biased question,Frase 1,Frase 1,FALSE
+42,Exclamative,Frase 1,Frase 1,FALSE
+42,Can’t-find-the-value-of-x question,Frase 1,Frase 1,FALSE
+42,Subject wh-question,Frase 1,Frase 1,FALSE
+43,Declarative,Frase 1,Frase 1,FALSE
+43,Info-seeking wh-question,Frase 1,Frase 1,FALSE
+43,Info-seeking non-wh question,Frase 2,Frase 2,FALSE
+43,"Disapproval echo-question 
+(wh-to-HLP)",Frase 1,Frase 1,FALSE
+43,Object wh question,Frase 2,Frase 2,FALSE
+43,"Disapproval echo question 
+(wh-to-LLP/tutto)",Frase 2,Frase 2,FALSE
+43,"Disapproval echo question 
+(wh-to-LLP/buone)",Frase 2,Frase 2,FALSE
+43,"Unheard echo question 
+(wh-to-LLP/buone)",Frase 2,Frase 2,TRUE
+43,Yes/no question,Frase 2,Frase 2,FALSE
+43,Counter-expectational,Frase 2,Frase 2,FALSE
+43,Rhetorical question,Frase 1,Frase 1,FALSE
+43,Surprise-disapproval question,Frase 2,Frase 2,FALSE
+43,Declarative biased question,Frase 1,Frase 1,FALSE
+43,Exclamative,Frase 1,Frase 1,FALSE
+43,Can’t-find-the-value-of-x question,Frase 1,Frase 1,FALSE
+43,Subject wh-question,Frase 1,Frase 1,FALSE
+44,Declarative,Frase 1,Frase 1,FALSE
+44,Info-seeking wh-question,Frase 1,Frase 1,FALSE
+44,Info-seeking non-wh question,Frase 2,Frase 2,FALSE
+44,"Disapproval echo-question 
+(wh-to-HLP)",Frase 1,Frase 1,FALSE
+44,Object wh question,Frase 2,Frase 2,FALSE
+44,"Disapproval echo question 
+(wh-to-LLP/tutto)",Frase 2,Frase 2,FALSE
+44,"Disapproval echo question 
+(wh-to-LLP/buone)",Frase 2,Frase 2,FALSE
+44,"Unheard echo question 
+(wh-to-LLP/buone)",Frase 2,Frase 2,TRUE
+44,Yes/no question,Frase 2,Frase 2,FALSE
+44,Counter-expectational,Frase 2,Frase 2,FALSE
+44,Rhetorical question,Frase 1,Frase 1,FALSE
+44,Surprise-disapproval question,Frase 2,Frase 2,FALSE
+44,Declarative biased question,Frase 1,Frase 1,FALSE
+44,Exclamative,Frase 1,Frase 1,FALSE
+44,Can’t-find-the-value-of-x question,Frase 1,Frase 1,FALSE
+44,Subject wh-question,Frase 1,Frase 1,FALSE
+45,Declarative,Frase 1,Frase 1,FALSE
+45,Info-seeking wh-question,Frase 1,Frase 1,FALSE
+45,Info-seeking non-wh question,Frase 2,Frase 2,FALSE
+45,"Disapproval echo-question 
+(wh-to-HLP)",Frase 1,Frase 1,FALSE
+45,Object wh question,Frase 2,Frase 2,FALSE
+45,"Disapproval echo question 
+(wh-to-LLP/tutto)",Frase 2,Frase 2,FALSE
+45,"Disapproval echo question 
+(wh-to-LLP/buone)",Frase 2,Frase 2,FALSE
+45,"Unheard echo question 
+(wh-to-LLP/buone)",Frase 2,Frase 2,TRUE
+45,Yes/no question,Frase 2,Frase 2,FALSE
+45,Counter-expectational,Frase 2,Frase 2,FALSE
+45,Rhetorical question,Frase 1,Frase 1,FALSE
+45,Surprise-disapproval question,Frase 2,Frase 2,FALSE
+45,Declarative biased question,Frase 1,Frase 1,FALSE
+45,Exclamative,Frase 1,Frase 1,FALSE
+45,Can’t-find-the-value-of-x question,Frase 1,Frase 1,FALSE
+45,Subject wh-question,Frase 1,Frase 1,FALSE
+46,Declarative,Frase 1,Frase 1,FALSE
+46,Info-seeking wh-question,Frase 1,Frase 1,FALSE
+46,Info-seeking non-wh question,Frase 2,Frase 2,FALSE
+46,"Disapproval echo-question 
+(wh-to-HLP)",Frase 1,Frase 1,FALSE
+46,Object wh question,Frase 1,Frase 2,FALSE
+46,"Disapproval echo question 
+(wh-to-LLP/tutto)",Frase 1,Frase 2,FALSE
+46,"Disapproval echo question 
+(wh-to-LLP/buone)",Frase 2,Frase 2,FALSE
+46,"Unheard echo question 
+(wh-to-LLP/buone)",Frase 1,Frase 2,TRUE
+46,Yes/no question,Frase 2,Frase 2,FALSE
+46,Counter-expectational,Frase 2,Frase 2,FALSE
+46,Rhetorical question,Frase 1,Frase 1,FALSE
+46,Surprise-disapproval question,Frase 2,Frase 2,FALSE
+46,Declarative biased question,Frase 1,Frase 1,FALSE
+46,Exclamative,Frase 1,Frase 1,FALSE
+46,Can’t-find-the-value-of-x question,Frase 1,Frase 1,FALSE
+46,Subject wh-question,Frase 1,Frase 1,FALSE
+47,Declarative,Frase 1,Frase 1,FALSE
+47,Info-seeking wh-question,Frase 1,Frase 1,FALSE
+47,Info-seeking non-wh question,Frase 1,Frase 2,FALSE
+47,"Disapproval echo-question 
+(wh-to-HLP)",Frase 1,Frase 1,FALSE
+47,Object wh question,Frase 1,Frase 2,FALSE
+47,"Disapproval echo question 
+(wh-to-LLP/tutto)",Frase 2,Frase 2,FALSE
+47,"Disapproval echo question 
+(wh-to-LLP/buone)",Frase 1,Frase 2,FALSE
+47,"Unheard echo question 
+(wh-to-LLP/buone)",Frase 1,Frase 2,TRUE
+47,Yes/no question,Frase 2,Frase 2,FALSE
+47,Counter-expectational,Frase 2,Frase 2,FALSE
+47,Rhetorical question,Frase 1,Frase 1,FALSE
+47,Surprise-disapproval question,Frase 2,Frase 2,FALSE
+47,Declarative biased question,Frase 2,Frase 1,FALSE
+47,Exclamative,Frase 1,Frase 1,FALSE
+47,Can’t-find-the-value-of-x question,Frase 1,Frase 1,FALSE
+47,Subject wh-question,Frase 1,Frase 1,FALSE
+48,Declarative,Frase 1,Frase 1,FALSE
+48,Info-seeking wh-question,Frase 1,Frase 1,FALSE
+48,Info-seeking non-wh question,Frase 1,Frase 2,FALSE
+48,"Disapproval echo-question 
+(wh-to-HLP)",Frase 1,Frase 1,FALSE
+48,Object wh question,Frase 2,Frase 2,FALSE
+48,"Disapproval echo question 
+(wh-to-LLP/tutto)",Frase 2,Frase 2,FALSE
+48,"Disapproval echo question 
+(wh-to-LLP/buone)",Frase 2,Frase 2,FALSE
+48,"Unheard echo question 
+(wh-to-LLP/buone)",Frase 1,Frase 2,TRUE
+48,Yes/no question,Frase 1,Frase 2,FALSE
+48,Counter-expectational,Frase 2,Frase 2,FALSE
+48,Rhetorical question,Frase 1,Frase 1,FALSE
+48,Surprise-disapproval question,Frase 2,Frase 2,FALSE
+48,Declarative biased question,Frase 1,Frase 1,FALSE
+48,Exclamative,Frase 1,Frase 1,FALSE
+48,Can’t-find-the-value-of-x question,Frase 1,Frase 1,FALSE
+48,Subject wh-question,Frase 1,Frase 1,FALSE
+49,Declarative,Frase 1,Frase 1,FALSE
+49,Info-seeking wh-question,Frase 1,Frase 1,FALSE
+49,Info-seeking non-wh question,Frase 1,Frase 2,FALSE
+49,"Disapproval echo-question 
+(wh-to-HLP)",Frase 1,Frase 1,FALSE
+49,Object wh question,Frase 2,Frase 2,FALSE
+49,"Disapproval echo question 
+(wh-to-LLP/tutto)",Frase 2,Frase 2,FALSE
+49,"Disapproval echo question 
+(wh-to-LLP/buone)",Frase 2,Frase 2,FALSE
+49,"Unheard echo question 
+(wh-to-LLP/buone)",Frase 1,Frase 2,TRUE
+49,Yes/no question,Frase 2,Frase 2,FALSE
+49,Counter-expectational,Frase 2,Frase 2,FALSE
+49,Rhetorical question,Frase 1,Frase 1,FALSE
+49,Surprise-disapproval question,Frase 2,Frase 2,FALSE
+49,Declarative biased question,Frase 1,Frase 1,FALSE
+49,Exclamative,Frase 1,Frase 1,FALSE
+49,Can’t-find-the-value-of-x question,Frase 1,Frase 1,FALSE
+49,Subject wh-question,Frase 1,Frase 1,FALSE
+50,Declarative,Frase 1,Frase 1,FALSE
+50,Info-seeking wh-question,Frase 1,Frase 1,FALSE
+50,Info-seeking non-wh question,Frase 1,Frase 2,FALSE
+50,"Disapproval echo-question 
+(wh-to-HLP)",Frase 1,Frase 1,FALSE
+50,Object wh question,Frase 1,Frase 2,FALSE
+50,"Disapproval echo question 
+(wh-to-LLP/tutto)",Frase 2,Frase 2,FALSE
+50,"Disapproval echo question 
+(wh-to-LLP/buone)",Frase 2,Frase 2,FALSE
+50,"Unheard echo question 
+(wh-to-LLP/buone)",Frase 1,Frase 2,TRUE
+50,Yes/no question,Frase 1,Frase 2,FALSE
+50,Counter-expectational,Frase 2,Frase 2,FALSE
+50,Rhetorical question,Frase 1,Frase 1,FALSE
+50,Surprise-disapproval question,Frase 2,Frase 2,FALSE
+50,Declarative biased question,Frase 1,Frase 1,FALSE
+50,Exclamative,Frase 1,Frase 1,FALSE
+50,Can’t-find-the-value-of-x question,Frase 1,Frase 1,FALSE
+50,Subject wh-question,Frase 1,Frase 1,FALSE
+51,Declarative,Frase 1,Frase 1,FALSE
+51,Info-seeking wh-question,Frase 1,Frase 1,FALSE
+51,Info-seeking non-wh question,Frase 1,Frase 2,FALSE
+51,"Disapproval echo-question 
+(wh-to-HLP)",Frase 1,Frase 1,FALSE
+51,Object wh question,Frase 2,Frase 2,FALSE
+51,"Disapproval echo question 
+(wh-to-LLP/tutto)",Frase 2,Frase 2,FALSE
+51,"Disapproval echo question 
+(wh-to-LLP/buone)",Frase 2,Frase 2,FALSE
+51,"Unheard echo question 
+(wh-to-LLP/buone)",Frase 2,Frase 2,TRUE
+51,Yes/no question,Frase 1,Frase 2,FALSE
+51,Counter-expectational,Frase 2,Frase 2,FALSE
+51,Rhetorical question,Frase 1,Frase 1,FALSE
+51,Surprise-disapproval question,Frase 2,Frase 2,FALSE
+51,Declarative biased question,Frase 1,Frase 1,FALSE
+51,Exclamative,Frase 1,Frase 1,FALSE
+51,Can’t-find-the-value-of-x question,Frase 1,Frase 1,FALSE
+51,Subject wh-question,Frase 1,Frase 1,FALSE
+52,Declarative,Frase 1,Frase 1,FALSE
+52,Info-seeking wh-question,Frase 1,Frase 1,FALSE
+52,Info-seeking non-wh question,Frase 1,Frase 2,FALSE
+52,"Disapproval echo-question 
+(wh-to-HLP)",Frase 1,Frase 1,FALSE
+52,Object wh question,Frase 1,Frase 2,FALSE
+52,"Disapproval echo question 
+(wh-to-LLP/tutto)",Frase 2,Frase 2,FALSE
+52,"Disapproval echo question 
+(wh-to-LLP/buone)",Frase 2,Frase 2,FALSE
+52,"Unheard echo question 
+(wh-to-LLP/buone)",Frase 1,Frase 2,TRUE
+52,Yes/no question,Frase 2,Frase 2,FALSE
+52,Counter-expectational,Frase 2,Frase 2,FALSE
+52,Rhetorical question,Frase 1,Frase 1,FALSE
+52,Surprise-disapproval question,Frase 2,Frase 2,FALSE
+52,Declarative biased question,Frase 2,Frase 1,FALSE
+52,Exclamative,Frase 1,Frase 1,FALSE
+52,Can’t-find-the-value-of-x question,Frase 1,Frase 1,FALSE
+52,Subject wh-question,Frase 2,Frase 1,FALSE
+53,Declarative,Frase 2,Frase 1,FALSE
+53,Info-seeking wh-question,Frase 1,Frase 1,FALSE
+53,Info-seeking non-wh question,Frase 1,Frase 2,FALSE
+53,"Disapproval echo-question 
+(wh-to-HLP)",Frase 1,Frase 1,FALSE
+53,Object wh question,Frase 2,Frase 2,FALSE
+53,"Disapproval echo question 
+(wh-to-LLP/tutto)",Frase 2,Frase 2,FALSE
+53,"Disapproval echo question 
+(wh-to-LLP/buone)",Frase 2,Frase 2,FALSE
+53,"Unheard echo question 
+(wh-to-LLP/buone)",Frase 1,Frase 2,TRUE
+53,Yes/no question,Frase 1,Frase 2,FALSE
+53,Counter-expectational,Frase 2,Frase 2,FALSE
+53,Rhetorical question,Frase 1,Frase 1,FALSE
+53,Surprise-disapproval question,Frase 2,Frase 2,FALSE
+53,Declarative biased question,Frase 1,Frase 1,FALSE
+53,Exclamative,Frase 1,Frase 1,FALSE
+53,Can’t-find-the-value-of-x question,Frase 1,Frase 1,FALSE
+53,Subject wh-question,Frase 1,Frase 1,FALSE
+54,Declarative,Frase 1,Frase 1,FALSE
+54,Info-seeking wh-question,Frase 1,Frase 1,FALSE
+54,Info-seeking non-wh question,Frase 1,Frase 2,FALSE
+54,"Disapproval echo-question 
+(wh-to-HLP)",Frase 1,Frase 1,FALSE
+54,Object wh question,Frase 1,Frase 2,FALSE
+54,"Disapproval echo question 
+(wh-to-LLP/tutto)",Frase 2,Frase 2,FALSE
+54,"Disapproval echo question 
+(wh-to-LLP/buone)",Frase 1,Frase 2,FALSE
+54,"Unheard echo question 
+(wh-to-LLP/buone)",Frase 1,Frase 2,TRUE
+54,Yes/no question,Frase 2,Frase 2,FALSE
+54,Counter-expectational,Frase 2,Frase 2,FALSE
+54,Rhetorical question,Frase 1,Frase 1,FALSE
+54,Surprise-disapproval question,Frase 2,Frase 2,FALSE
+54,Declarative biased question,Frase 1,Frase 1,FALSE
+54,Exclamative,Frase 1,Frase 1,FALSE
+54,Can’t-find-the-value-of-x question,Frase 1,Frase 1,FALSE
+54,Subject wh-question,Frase 1,Frase 1,FALSE
+55,Declarative,Frase 1,Frase 1,FALSE
+55,Info-seeking wh-question,Frase 1,Frase 1,FALSE
+55,Info-seeking non-wh question,Frase 1,Frase 2,FALSE
+55,"Disapproval echo-question 
+(wh-to-HLP)",Frase 1,Frase 1,FALSE
+55,Object wh question,Frase 1,Frase 2,FALSE
+55,"Disapproval echo question 
+(wh-to-LLP/tutto)",Frase 2,Frase 2,FALSE
+55,"Disapproval echo question 
+(wh-to-LLP/buone)",Frase 2,Frase 2,FALSE
+55,"Unheard echo question 
+(wh-to-LLP/buone)",Frase 1,Frase 2,TRUE
+55,Yes/no question,Frase 2,Frase 2,FALSE
+55,Counter-expectational,Frase 2,Frase 2,FALSE
+55,Rhetorical question,Frase 1,Frase 1,FALSE
+55,Surprise-disapproval question,Frase 2,Frase 2,FALSE
+55,Declarative biased question,Frase 2,Frase 1,FALSE
+55,Exclamative,Frase 1,Frase 1,FALSE
+55,Can’t-find-the-value-of-x question,Frase 1,Frase 1,FALSE
+55,Subject wh-question,Frase 1,Frase 1,FALSE
+56,Declarative,Frase 1,Frase 1,FALSE
+56,Info-seeking wh-question,Frase 1,Frase 1,FALSE
+56,Info-seeking non-wh question,Frase 2,Frase 2,FALSE
+56,"Disapproval echo-question 
+(wh-to-HLP)",Frase 1,Frase 1,FALSE
+56,Object wh question,Frase 1,Frase 2,FALSE
+56,"Disapproval echo question 
+(wh-to-LLP/tutto)",Frase 2,Frase 2,FALSE
+56,"Disapproval echo question 
+(wh-to-LLP/buone)",Frase 2,Frase 2,FALSE
+56,"Unheard echo question 
+(wh-to-LLP/buone)",Frase 1,Frase 2,TRUE
+56,Yes/no question,Frase 2,Frase 2,FALSE
+56,Counter-expectational,Frase 2,Frase 2,FALSE
+56,Rhetorical question,Frase 1,Frase 1,FALSE
+56,Surprise-disapproval question,Frase 2,Frase 2,FALSE
+56,Declarative biased question,Frase 2,Frase 1,FALSE
+56,Exclamative,Frase 1,Frase 1,FALSE
+56,Can’t-find-the-value-of-x question,Frase 1,Frase 1,FALSE
+56,Subject wh-question,Frase 1,Frase 1,FALSE
+57,Declarative,Frase 2,Frase 1,FALSE
+57,Info-seeking wh-question,Frase 1,Frase 1,FALSE
+57,Info-seeking non-wh question,Frase 1,Frase 2,FALSE
+57,"Disapproval echo-question 
+(wh-to-HLP)",Frase 1,Frase 1,FALSE
+57,Object wh question,Frase 2,Frase 2,FALSE
+57,"Disapproval echo question 
+(wh-to-LLP/tutto)",Frase 2,Frase 2,FALSE
+57,"Disapproval echo question 
+(wh-to-LLP/buone)",Frase 2,Frase 2,FALSE
+57,"Unheard echo question 
+(wh-to-LLP/buone)",Frase 1,Frase 2,TRUE
+57,Yes/no question,Frase 1,Frase 2,FALSE
+57,Counter-expectational,Frase 2,Frase 2,FALSE
+57,Rhetorical question,Frase 1,Frase 1,FALSE
+57,Surprise-disapproval question,Frase 2,Frase 2,FALSE
+57,Declarative biased question,Frase 1,Frase 1,FALSE
+57,Exclamative,Frase 1,Frase 1,FALSE
+57,Can’t-find-the-value-of-x question,Frase 1,Frase 1,FALSE
+57,Subject wh-question,Frase 1,Frase 1,FALSE
+58,Declarative,Frase 1,Frase 1,FALSE
+58,Info-seeking wh-question,Frase 1,Frase 1,FALSE
+58,Info-seeking non-wh question,Frase 1,Frase 2,FALSE
+58,"Disapproval echo-question 
+(wh-to-HLP)",Frase 1,Frase 1,FALSE
+58,Object wh question,Frase 1,Frase 2,FALSE
+58,"Disapproval echo question 
+(wh-to-LLP/tutto)",Frase 2,Frase 2,FALSE
+58,"Disapproval echo question 
+(wh-to-LLP/buone)",Frase 2,Frase 2,FALSE
+58,"Unheard echo question 
+(wh-to-LLP/buone)",Frase 1,Frase 2,TRUE
+58,Yes/no question,Frase 1,Frase 2,FALSE
+58,Counter-expectational,Frase 2,Frase 2,FALSE
+58,Rhetorical question,Frase 1,Frase 1,FALSE
+58,Surprise-disapproval question,Frase 2,Frase 2,FALSE
+58,Declarative biased question,Frase 1,Frase 1,FALSE
+58,Exclamative,Frase 1,Frase 1,FALSE
+58,Can’t-find-the-value-of-x question,Frase 1,Frase 1,FALSE
+58,Subject wh-question,Frase 1,Frase 1,FALSE
+59,Declarative,Frase 1,Frase 1,FALSE
+59,Info-seeking wh-question,Frase 1,Frase 1,FALSE
+59,Info-seeking non-wh question,Frase 2,Frase 2,FALSE
+59,"Disapproval echo-question 
+(wh-to-HLP)",Frase 1,Frase 1,FALSE
+59,Object wh question,Frase 1,Frase 2,FALSE
+59,"Disapproval echo question 
+(wh-to-LLP/tutto)",Frase 2,Frase 2,FALSE
+59,"Disapproval echo question 
+(wh-to-LLP/buone)",Frase 2,Frase 2,FALSE
+59,"Unheard echo question 
+(wh-to-LLP/buone)",Frase 1,Frase 2,TRUE
+59,Yes/no question,Frase 2,Frase 2,FALSE
+59,Counter-expectational,Frase 2,Frase 2,FALSE
+59,Rhetorical question,Frase 1,Frase 1,FALSE
+59,Surprise-disapproval question,Frase 2,Frase 2,FALSE
+59,Declarative biased question,Frase 1,Frase 1,FALSE
+59,Exclamative,Frase 1,Frase 1,FALSE
+59,Can’t-find-the-value-of-x question,Frase 1,Frase 1,FALSE
+59,Subject wh-question,Frase 1,Frase 1,FALSE
+60,Declarative,Frase 1,Frase 1,FALSE
+60,Info-seeking wh-question,Frase 1,Frase 1,FALSE
+60,Info-seeking non-wh question,Frase 1,Frase 2,FALSE
+60,"Disapproval echo-question 
+(wh-to-HLP)",Frase 1,Frase 1,FALSE
+60,Object wh question,Frase 2,Frase 2,FALSE
+60,"Disapproval echo question 
+(wh-to-LLP/tutto)",Frase 2,Frase 2,FALSE
+60,"Disapproval echo question 
+(wh-to-LLP/buone)",Frase 2,Frase 2,FALSE
+60,"Unheard echo question 
+(wh-to-LLP/buone)",Frase 1,Frase 2,TRUE
+60,Yes/no question,Frase 1,Frase 2,FALSE
+60,Counter-expectational,Frase 2,Frase 2,FALSE
+60,Rhetorical question,Frase 1,Frase 1,FALSE
+60,Surprise-disapproval question,Frase 2,Frase 2,FALSE
+60,Declarative biased question,Frase 1,Frase 1,FALSE
+60,Exclamative,Frase 1,Frase 1,FALSE
+60,Can’t-find-the-value-of-x question,Frase 1,Frase 1,FALSE
+60,Subject wh-question,Frase 1,Frase 1,FALSE
+61,Declarative,Frase 1,Frase 1,FALSE
+61,Info-seeking wh-question,Frase 1,Frase 1,FALSE
+61,Info-seeking non-wh question,Frase 2,Frase 2,FALSE
+61,"Disapproval echo-question 
+(wh-to-HLP)",Frase 1,Frase 1,FALSE
+61,Object wh question,Frase 1,Frase 2,FALSE
+61,"Disapproval echo question 
+(wh-to-LLP/tutto)",Frase 2,Frase 2,FALSE
+61,"Disapproval echo question 
+(wh-to-LLP/buone)",Frase 2,Frase 2,FALSE
+61,"Unheard echo question 
+(wh-to-LLP/buone)",Frase 1,Frase 2,TRUE
+61,Yes/no question,Frase 2,Frase 2,FALSE
+61,Counter-expectational,Frase 2,Frase 2,FALSE
+61,Rhetorical question,Frase 1,Frase 1,FALSE
+61,Surprise-disapproval question,Frase 2,Frase 2,FALSE
+61,Declarative biased question,Frase 1,Frase 1,FALSE
+61,Exclamative,Frase 1,Frase 1,FALSE
+61,Can’t-find-the-value-of-x question,Frase 1,Frase 1,FALSE
+61,Subject wh-question,Frase 1,Frase 1,FALSE
+62,Declarative,Frase 2,Frase 1,FALSE
+62,Info-seeking wh-question,Frase 1,Frase 1,FALSE
+62,Info-seeking non-wh question,Frase 1,Frase 2,FALSE
+62,"Disapproval echo-question 
+(wh-to-HLP)",Frase 1,Frase 1,FALSE
+62,Object wh question,Frase 2,Frase 2,FALSE
+62,"Disapproval echo question 
+(wh-to-LLP/tutto)",Frase 2,Frase 2,FALSE
+62,"Disapproval echo question 
+(wh-to-LLP/buone)",Frase 2,Frase 2,FALSE
+62,"Unheard echo question 
+(wh-to-LLP/buone)",Frase 1,Frase 2,TRUE
+62,Yes/no question,Frase 1,Frase 2,FALSE
+62,Counter-expectational,Frase 2,Frase 2,FALSE
+62,Rhetorical question,Frase 1,Frase 1,FALSE
+62,Surprise-disapproval question,Frase 2,Frase 2,FALSE
+62,Declarative biased question,Frase 1,Frase 1,FALSE
+62,Exclamative,Frase 1,Frase 1,FALSE
+62,Can’t-find-the-value-of-x question,Frase 1,Frase 1,FALSE
+62,Subject wh-question,Frase 1,Frase 1,FALSE
+63,Declarative,Frase 1,Frase 1,FALSE
+63,Info-seeking wh-question,Frase 1,Frase 1,FALSE
+63,Info-seeking non-wh question,Frase 1,Frase 2,FALSE
+63,"Disapproval echo-question 
+(wh-to-HLP)",Frase 1,Frase 1,FALSE
+63,Object wh question,Frase 1,Frase 2,FALSE
+63,"Disapproval echo question 
+(wh-to-LLP/tutto)",Frase 2,Frase 2,FALSE
+63,"Disapproval echo question 
+(wh-to-LLP/buone)",Frase 2,Frase 2,FALSE
+63,"Unheard echo question 
+(wh-to-LLP/buone)",Frase 1,Frase 2,TRUE
+63,Yes/no question,Frase 2,Frase 2,FALSE
+63,Counter-expectational,Frase 2,Frase 2,FALSE
+63,Rhetorical question,Frase 1,Frase 1,FALSE
+63,Surprise-disapproval question,Frase 2,Frase 2,FALSE
+63,Declarative biased question,Frase 1,Frase 1,FALSE
+63,Exclamative,Frase 1,Frase 1,FALSE
+63,Can’t-find-the-value-of-x question,Frase 1,Frase 1,FALSE
+63,Subject wh-question,Frase 1,Frase 1,FALSE
+64,Declarative,Frase 2,Frase 1,FALSE
+64,Info-seeking wh-question,Frase 1,Frase 1,FALSE
+64,Info-seeking non-wh question,Frase 1,Frase 2,FALSE
+64,"Disapproval echo-question 
+(wh-to-HLP)",Frase 1,Frase 1,FALSE
+64,Object wh question,Frase 2,Frase 2,FALSE
+64,"Disapproval echo question 
+(wh-to-LLP/tutto)",Frase 2,Frase 2,FALSE
+64,"Disapproval echo question 
+(wh-to-LLP/buone)",Frase 2,Frase 2,FALSE
+64,"Unheard echo question 
+(wh-to-LLP/buone)",Frase 1,Frase 2,TRUE
+64,Yes/no question,Frase 1,Frase 2,FALSE
+64,Counter-expectational,Frase 2,Frase 2,FALSE
+64,Rhetorical question,Frase 1,Frase 1,FALSE
+64,Surprise-disapproval question,Frase 2,Frase 2,FALSE
+64,Declarative biased question,Frase 1,Frase 1,FALSE
+64,Exclamative,Frase 1,Frase 1,FALSE
+64,Can’t-find-the-value-of-x question,Frase 1,Frase 1,FALSE
+64,Subject wh-question,Frase 1,Frase 1,FALSE
+65,Declarative,Frase 1,Frase 1,FALSE
+65,Info-seeking wh-question,Frase 1,Frase 1,FALSE
+65,Info-seeking non-wh question,Frase 1,Frase 2,FALSE
+65,"Disapproval echo-question 
+(wh-to-HLP)",Frase 1,Frase 1,FALSE
+65,Object wh question,Frase 1,Frase 2,FALSE
+65,"Disapproval echo question 
+(wh-to-LLP/tutto)",Frase 2,Frase 2,FALSE
+65,"Disapproval echo question 
+(wh-to-LLP/buone)",Frase 2,Frase 2,FALSE
+65,"Unheard echo question 
+(wh-to-LLP/buone)",Frase 2,Frase 2,TRUE
+65,Yes/no question,Frase 1,Frase 2,FALSE
+65,Counter-expectational,Frase 2,Frase 2,FALSE
+65,Rhetorical question,Frase 1,Frase 1,FALSE
+65,Surprise-disapproval question,Frase 2,Frase 2,FALSE
+65,Declarative biased question,Frase 1,Frase 1,FALSE
+65,Exclamative,Frase 1,Frase 1,FALSE
+65,Can’t-find-the-value-of-x question,Frase 1,Frase 1,FALSE
+65,Subject wh-question,Frase 1,Frase 1,FALSE
+66,Declarative,Frase 1,Frase 1,FALSE
+66,Info-seeking wh-question,Frase 1,Frase 1,FALSE
+66,Info-seeking non-wh question,Frase 2,Frase 2,FALSE
+66,"Disapproval echo-question 
+(wh-to-HLP)",Frase 2,Frase 1,FALSE
+66,Object wh question,Frase 1,Frase 2,FALSE
+66,"Disapproval echo question 
+(wh-to-LLP/tutto)",Frase 1,Frase 2,FALSE
+66,"Disapproval echo question 
+(wh-to-LLP/buone)",Frase 2,Frase 2,FALSE
+66,"Unheard echo question 
+(wh-to-LLP/buone)",Frase 1,Frase 2,TRUE
+66,Yes/no question,Frase 1,Frase 2,FALSE
+66,Counter-expectational,Frase 2,Frase 2,FALSE
+66,Rhetorical question,Frase 1,Frase 1,FALSE
+66,Surprise-disapproval question,Frase 2,Frase 2,FALSE
+66,Declarative biased question,Frase 1,Frase 1,FALSE
+66,Exclamative,Frase 1,Frase 1,FALSE
+66,Can’t-find-the-value-of-x question,Frase 1,Frase 1,FALSE
+66,Subject wh-question,Frase 1,Frase 1,FALSE
+67,Declarative,Frase 1,Frase 1,FALSE
+67,Info-seeking wh-question,Frase 1,Frase 1,FALSE
+67,Info-seeking non-wh question,Frase 1,Frase 2,FALSE
+67,"Disapproval echo-question 
+(wh-to-HLP)",Frase 1,Frase 1,FALSE
+67,Object wh question,Frase 1,Frase 2,FALSE
+67,"Disapproval echo question 
+(wh-to-LLP/tutto)",Frase 2,Frase 2,FALSE
+67,"Disapproval echo question 
+(wh-to-LLP/buone)",Frase 1,Frase 2,FALSE
+67,"Unheard echo question 
+(wh-to-LLP/buone)",Frase 1,Frase 2,TRUE
+67,Yes/no question,Frase 1,Frase 2,FALSE
+67,Counter-expectational,Frase 2,Frase 2,FALSE
+67,Rhetorical question,Frase 1,Frase 1,FALSE
+67,Surprise-disapproval question,Frase 2,Frase 2,FALSE
+67,Declarative biased question,Frase 1,Frase 1,FALSE
+67,Exclamative,Frase 1,Frase 1,FALSE
+67,Can’t-find-the-value-of-x question,Frase 1,Frase 1,FALSE
+67,Subject wh-question,Frase 1,Frase 1,FALSE
+68,Declarative,Frase 1,Frase 1,FALSE
+68,Info-seeking wh-question,Frase 1,Frase 1,FALSE
+68,Info-seeking non-wh question,Frase 2,Frase 2,FALSE
+68,"Disapproval echo-question 
+(wh-to-HLP)",Frase 1,Frase 1,FALSE
+68,Object wh question,Frase 2,Frase 2,FALSE
+68,"Disapproval echo question 
+(wh-to-LLP/tutto)",Frase 2,Frase 2,FALSE
+68,"Disapproval echo question 
+(wh-to-LLP/buone)",Frase 2,Frase 2,FALSE
+68,"Unheard echo question 
+(wh-to-LLP/buone)",Frase 2,Frase 2,TRUE
+68,Yes/no question,Frase 2,Frase 2,FALSE
+68,Counter-expectational,Frase 2,Frase 2,FALSE
+68,Rhetorical question,Frase 1,Frase 1,FALSE
+68,Surprise-disapproval question,Frase 2,Frase 2,FALSE
+68,Declarative biased question,Frase 1,Frase 1,FALSE
+68,Exclamative,Frase 1,Frase 1,FALSE
+68,Can’t-find-the-value-of-x question,Frase 1,Frase 1,FALSE
+68,Subject wh-question,Frase 1,Frase 1,FALSE
+69,Declarative,Frase 1,Frase 1,FALSE
+69,Info-seeking wh-question,Frase 2,Frase 1,FALSE
+69,Info-seeking non-wh question,Frase 2,Frase 2,FALSE
+69,"Disapproval echo-question 
+(wh-to-HLP)",Frase 1,Frase 1,FALSE
+69,Object wh question,Frase 1,Frase 2,FALSE
+69,"Disapproval echo question 
+(wh-to-LLP/tutto)",Frase 1,Frase 2,FALSE
+69,"Disapproval echo question 
+(wh-to-LLP/buone)",Frase 1,Frase 2,FALSE
+69,"Unheard echo question 
+(wh-to-LLP/buone)",Frase 1,Frase 2,TRUE
+69,Yes/no question,Frase 1,Frase 2,FALSE
+69,Counter-expectational,Frase 2,Frase 2,FALSE
+69,Rhetorical question,Frase 1,Frase 1,FALSE
+69,Surprise-disapproval question,Frase 2,Frase 2,FALSE
+69,Declarative biased question,Frase 1,Frase 1,FALSE
+69,Exclamative,Frase 1,Frase 1,FALSE
+69,Can’t-find-the-value-of-x question,Frase 1,Frase 1,FALSE
+69,Subject wh-question,Frase 1,Frase 1,FALSE
+70,Declarative,Frase 1,Frase 1,FALSE
+70,Info-seeking wh-question,Frase 1,Frase 1,FALSE
+70,Info-seeking non-wh question,Frase 2,Frase 2,FALSE
+70,"Disapproval echo-question 
+(wh-to-HLP)",Frase 1,Frase 1,FALSE
+70,Object wh question,Frase 1,Frase 2,FALSE
+70,"Disapproval echo question 
+(wh-to-LLP/tutto)",Frase 2,Frase 2,FALSE
+70,"Disapproval echo question 
+(wh-to-LLP/buone)",Frase 2,Frase 2,FALSE
+70,"Unheard echo question 
+(wh-to-LLP/buone)",Frase 1,Frase 2,TRUE
+70,Yes/no question,Frase 1,Frase 2,FALSE
+70,Counter-expectational,Frase 2,Frase 2,FALSE
+70,Rhetorical question,Frase 1,Frase 1,FALSE
+70,Surprise-disapproval question,Frase 2,Frase 2,FALSE
+70,Declarative biased question,Frase 2,Frase 1,FALSE
+70,Exclamative,Frase 1,Frase 1,FALSE
+70,Can’t-find-the-value-of-x question,Frase 1,Frase 1,FALSE
+70,Subject wh-question,Frase 1,Frase 1,FALSE
+71,Declarative,Frase 1,Frase 1,FALSE
+71,Info-seeking wh-question,Frase 1,Frase 1,FALSE
+71,Info-seeking non-wh question,Frase 2,Frase 2,FALSE
+71,"Disapproval echo-question 
+(wh-to-HLP)",Frase 1,Frase 1,FALSE
+71,Object wh question,Frase 2,Frase 2,FALSE
+71,"Disapproval echo question 
+(wh-to-LLP/tutto)",Frase 2,Frase 2,FALSE
+71,"Disapproval echo question 
+(wh-to-LLP/buone)",Frase 2,Frase 2,FALSE
+71,"Unheard echo question 
+(wh-to-LLP/buone)",Frase 2,Frase 2,TRUE
+71,Yes/no question,Frase 1,Frase 2,FALSE
+71,Counter-expectational,Frase 2,Frase 2,FALSE
+71,Rhetorical question,Frase 1,Frase 1,FALSE
+71,Surprise-disapproval question,Frase 2,Frase 2,FALSE
+71,Declarative biased question,Frase 2,Frase 1,FALSE
+71,Exclamative,Frase 1,Frase 1,FALSE
+71,Can’t-find-the-value-of-x question,Frase 1,Frase 1,FALSE
+71,Subject wh-question,Frase 1,Frase 1,FALSE
+72,Declarative,Frase 1,Frase 1,FALSE
+72,Info-seeking wh-question,Frase 1,Frase 1,FALSE
+72,Info-seeking non-wh question,Frase 2,Frase 2,FALSE
+72,"Disapproval echo-question 
+(wh-to-HLP)",Frase 1,Frase 1,FALSE
+72,Object wh question,Frase 1,Frase 2,FALSE
+72,"Disapproval echo question 
+(wh-to-LLP/tutto)",Frase 2,Frase 2,FALSE
+72,"Disapproval echo question 
+(wh-to-LLP/buone)",Frase 1,Frase 2,FALSE
+72,"Unheard echo question 
+(wh-to-LLP/buone)",Frase 1,Frase 2,TRUE
+72,Yes/no question,Frase 1,Frase 2,FALSE
+72,Counter-expectational,Frase 2,Frase 2,FALSE
+72,Rhetorical question,Frase 1,Frase 1,FALSE
+72,Surprise-disapproval question,Frase 2,Frase 2,FALSE
+72,Declarative biased question,Frase 1,Frase 1,FALSE
+72,Exclamative,Frase 1,Frase 1,FALSE
+72,Can’t-find-the-value-of-x question,Frase 1,Frase 1,FALSE
+72,Subject wh-question,Frase 1,Frase 1,FALSE
+73,Declarative,Frase 2,Frase 1,FALSE
+73,Info-seeking wh-question,Frase 1,Frase 1,FALSE
+73,Info-seeking non-wh question,Frase 1,Frase 2,FALSE
+73,"Disapproval echo-question 
+(wh-to-HLP)",Frase 1,Frase 1,FALSE
+73,Object wh question,Frase 2,Frase 2,FALSE
+73,"Disapproval echo question 
+(wh-to-LLP/tutto)",Frase 2,Frase 2,FALSE
+73,"Disapproval echo question 
+(wh-to-LLP/buone)",Frase 2,Frase 2,FALSE
+73,"Unheard echo question 
+(wh-to-LLP/buone)",Frase 1,Frase 2,TRUE
+73,Yes/no question,Frase 1,Frase 2,FALSE
+73,Counter-expectational,Frase 2,Frase 2,FALSE
+73,Rhetorical question,Frase 1,Frase 1,FALSE
+73,Surprise-disapproval question,Frase 2,Frase 2,FALSE
+73,Declarative biased question,Frase 1,Frase 1,FALSE
+73,Exclamative,Frase 1,Frase 1,FALSE
+73,Can’t-find-the-value-of-x question,Frase 1,Frase 1,FALSE
+73,Subject wh-question,Frase 1,Frase 1,FALSE
+74,Declarative,Frase 2,Frase 1,FALSE
+74,Info-seeking wh-question,Frase 1,Frase 1,FALSE
+74,Info-seeking non-wh question,Frase 2,Frase 2,FALSE
+74,"Disapproval echo-question 
+(wh-to-HLP)",Frase 1,Frase 1,FALSE
+74,Object wh question,Frase 1,Frase 2,FALSE
+74,"Disapproval echo question 
+(wh-to-LLP/tutto)",Frase 2,Frase 2,FALSE
+74,"Disapproval echo question 
+(wh-to-LLP/buone)",Frase 1,Frase 2,FALSE
+74,"Unheard echo question 
+(wh-to-LLP/buone)",Frase 1,Frase 2,TRUE
+74,Yes/no question,Frase 2,Frase 2,FALSE
+74,Counter-expectational,Frase 2,Frase 2,FALSE
+74,Rhetorical question,Frase 1,Frase 1,FALSE
+74,Surprise-disapproval question,Frase 2,Frase 2,FALSE
+74,Declarative biased question,Frase 2,Frase 1,FALSE
+74,Exclamative,Frase 1,Frase 1,FALSE
+74,Can’t-find-the-value-of-x question,Frase 1,Frase 1,FALSE
+74,Subject wh-question,Frase 1,Frase 1,FALSE
+75,Declarative,Frase 1,Frase 1,FALSE
+75,Info-seeking wh-question,Frase 1,Frase 1,FALSE
+75,Info-seeking non-wh question,Frase 1,Frase 2,FALSE
+75,"Disapproval echo-question 
+(wh-to-HLP)",Frase 1,Frase 1,FALSE
+75,Object wh question,Frase 1,Frase 2,FALSE
+75,"Disapproval echo question 
+(wh-to-LLP/tutto)",Frase 2,Frase 2,FALSE
+75,"Disapproval echo question 
+(wh-to-LLP/buone)",Frase 2,Frase 2,FALSE
+75,"Unheard echo question 
+(wh-to-LLP/buone)",Frase 1,Frase 2,TRUE
+75,Yes/no question,Frase 2,Frase 2,FALSE
+75,Counter-expectational,Frase 2,Frase 2,FALSE
+75,Rhetorical question,Frase 1,Frase 1,FALSE
+75,Surprise-disapproval question,Frase 2,Frase 2,FALSE
+75,Declarative biased question,Frase 2,Frase 1,FALSE
+75,Exclamative,Frase 1,Frase 1,FALSE
+75,Can’t-find-the-value-of-x question,Frase 1,Frase 1,FALSE
+75,Subject wh-question,Frase 1,Frase 1,FALSE
+76,Declarative,Frase 2,Frase 1,FALSE
+76,Info-seeking wh-question,Frase 1,Frase 1,FALSE
+76,Info-seeking non-wh question,Frase 1,Frase 2,FALSE
+76,"Disapproval echo-question 
+(wh-to-HLP)",Frase 1,Frase 1,FALSE
+76,Object wh question,Frase 2,Frase 2,FALSE
+76,"Disapproval echo question 
+(wh-to-LLP/tutto)",Frase 2,Frase 2,FALSE
+76,"Disapproval echo question 
+(wh-to-LLP/buone)",Frase 2,Frase 2,FALSE
+76,"Unheard echo question 
+(wh-to-LLP/buone)",Frase 1,Frase 2,TRUE
+76,Yes/no question,Frase 1,Frase 2,FALSE
+76,Counter-expectational,Frase 2,Frase 2,FALSE
+76,Rhetorical question,Frase 1,Frase 1,FALSE
+76,Surprise-disapproval question,Frase 2,Frase 2,FALSE
+76,Declarative biased question,Frase 1,Frase 1,FALSE
+76,Exclamative,Frase 1,Frase 1,FALSE
+76,Can’t-find-the-value-of-x question,Frase 1,Frase 1,FALSE
+76,Subject wh-question,Frase 1,Frase 1,FALSE
+77,Declarative,Frase 1,Frase 1,FALSE
+77,Info-seeking wh-question,Frase 1,Frase 1,FALSE
+77,Info-seeking non-wh question,Frase 1,Frase 2,FALSE
+77,"Disapproval echo-question 
+(wh-to-HLP)",Frase 1,Frase 1,FALSE
+77,Object wh question,Frase 2,Frase 2,FALSE
+77,"Disapproval echo question 
+(wh-to-LLP/tutto)",Frase 2,Frase 2,FALSE
+77,"Disapproval echo question 
+(wh-to-LLP/buone)",Frase 2,Frase 2,FALSE
+77,"Unheard echo question 
+(wh-to-LLP/buone)",Frase 2,Frase 2,TRUE
+77,Yes/no question,Frase 1,Frase 2,FALSE
+77,Counter-expectational,Frase 2,Frase 2,FALSE
+77,Rhetorical question,Frase 1,Frase 1,FALSE
+77,Surprise-disapproval question,Frase 2,Frase 2,FALSE
+77,Declarative biased question,Frase 2,Frase 1,FALSE
+77,Exclamative,Frase 1,Frase 1,FALSE
+77,Can’t-find-the-value-of-x question,Frase 1,Frase 1,FALSE
+77,Subject wh-question,Frase 1,Frase 1,FALSE
+78,Declarative,Frase 1,Frase 1,FALSE
+78,Info-seeking wh-question,Frase 1,Frase 1,FALSE
+78,Info-seeking non-wh question,Frase 1,Frase 2,FALSE
+78,"Disapproval echo-question 
+(wh-to-HLP)",Frase 1,Frase 1,FALSE
+78,Object wh question,Frase 2,Frase 2,FALSE
+78,"Disapproval echo question 
+(wh-to-LLP/tutto)",Frase 2,Frase 2,FALSE
+78,"Disapproval echo question 
+(wh-to-LLP/buone)",Frase 2,Frase 2,FALSE
+78,"Unheard echo question 
+(wh-to-LLP/buone)",Frase 1,Frase 2,TRUE
+78,Yes/no question,Frase 2,Frase 2,FALSE
+78,Counter-expectational,Frase 2,Frase 2,FALSE
+78,Rhetorical question,Frase 1,Frase 1,FALSE
+78,Surprise-disapproval question,Frase 2,Frase 2,FALSE
+78,Declarative biased question,Frase 2,Frase 1,FALSE
+78,Exclamative,Frase 1,Frase 1,FALSE
+78,Can’t-find-the-value-of-x question,Frase 1,Frase 1,FALSE
+78,Subject wh-question,Frase 1,Frase 1,FALSE
+79,Declarative,Frase 1,Frase 1,FALSE
+79,Info-seeking wh-question,Frase 2,Frase 1,FALSE
+79,Info-seeking non-wh question,Frase 2,Frase 2,FALSE
+79,"Disapproval echo-question 
+(wh-to-HLP)",Frase 2,Frase 1,FALSE
+79,Object wh question,Frase 1,Frase 2,FALSE
+79,"Disapproval echo question 
+(wh-to-LLP/tutto)",Frase 2,Frase 2,FALSE
+79,"Disapproval echo question 
+(wh-to-LLP/buone)",Frase 2,Frase 2,FALSE
+79,"Unheard echo question 
+(wh-to-LLP/buone)",Frase 1,Frase 2,TRUE
+79,Yes/no question,Frase 2,Frase 2,FALSE
+79,Counter-expectational,Frase 2,Frase 2,FALSE
+79,Rhetorical question,Frase 1,Frase 1,FALSE
+79,Surprise-disapproval question,Frase 2,Frase 2,FALSE
+79,Declarative biased question,Frase 1,Frase 1,FALSE
+79,Exclamative,Frase 1,Frase 1,FALSE
+79,Can’t-find-the-value-of-x question,Frase 1,Frase 1,FALSE
+79,Subject wh-question,Frase 1,Frase 1,FALSE
+80,Declarative,Frase 1,Frase 1,FALSE
+80,Info-seeking wh-question,Frase 1,Frase 1,FALSE
+80,Info-seeking non-wh question,Frase 1,Frase 2,FALSE
+80,"Disapproval echo-question 
+(wh-to-HLP)",Frase 1,Frase 1,FALSE
+80,Object wh question,Frase 2,Frase 2,FALSE
+80,"Disapproval echo question 
+(wh-to-LLP/tutto)",Frase 2,Frase 2,FALSE
+80,"Disapproval echo question 
+(wh-to-LLP/buone)",Frase 1,Frase 2,FALSE
+80,"Unheard echo question 
+(wh-to-LLP/buone)",Frase 1,Frase 2,TRUE
+80,Yes/no question,Frase 1,Frase 2,FALSE
+80,Counter-expectational,Frase 2,Frase 2,FALSE
+80,Rhetorical question,Frase 1,Frase 1,FALSE
+80,Surprise-disapproval question,Frase 2,Frase 2,FALSE
+80,Declarative biased question,Frase 1,Frase 1,FALSE
+80,Exclamative,Frase 1,Frase 1,FALSE
+80,Can’t-find-the-value-of-x question,Frase 1,Frase 1,FALSE
+80,Subject wh-question,Frase 1,Frase 1,FALSE
+81,Declarative,Frase 2,Frase 1,FALSE
+81,Info-seeking wh-question,Frase 1,Frase 1,FALSE
+81,Info-seeking non-wh question,Frase 1,Frase 2,FALSE
+81,"Disapproval echo-question 
+(wh-to-HLP)",Frase 1,Frase 1,FALSE
+81,Object wh question,Frase 1,Frase 2,FALSE
+81,"Disapproval echo question 
+(wh-to-LLP/tutto)",Frase 2,Frase 2,FALSE
+81,"Disapproval echo question 
+(wh-to-LLP/buone)",Frase 2,Frase 2,FALSE
+81,"Unheard echo question 
+(wh-to-LLP/buone)",Frase 2,Frase 2,TRUE
+81,Yes/no question,Frase 1,Frase 2,FALSE
+81,Counter-expectational,Frase 2,Frase 2,FALSE
+81,Rhetorical question,Frase 1,Frase 1,FALSE
+81,Surprise-disapproval question,Frase 2,Frase 2,FALSE
+81,Declarative biased question,Frase 1,Frase 1,FALSE
+81,Exclamative,Frase 1,Frase 1,FALSE
+81,Can’t-find-the-value-of-x question,Frase 1,Frase 1,FALSE
+81,Subject wh-question,Frase 1,Frase 1,FALSE
+82,Declarative,Frase 1,Frase 1,FALSE
+82,Info-seeking wh-question,Frase 1,Frase 1,FALSE
+82,Info-seeking non-wh question,Frase 1,Frase 2,FALSE
+82,"Disapproval echo-question 
+(wh-to-HLP)",Frase 1,Frase 1,FALSE
+82,Object wh question,Frase 1,Frase 2,FALSE
+82,"Disapproval echo question 
+(wh-to-LLP/tutto)",Frase 2,Frase 2,FALSE
+82,"Disapproval echo question 
+(wh-to-LLP/buone)",Frase 1,Frase 2,FALSE
+82,"Unheard echo question 
+(wh-to-LLP/buone)",Frase 1,Frase 2,TRUE
+82,Yes/no question,Frase 2,Frase 2,FALSE
+82,Counter-expectational,Frase 2,Frase 2,FALSE
+82,Rhetorical question,Frase 1,Frase 1,FALSE
+82,Surprise-disapproval question,Frase 2,Frase 2,FALSE
+82,Declarative biased question,Frase 1,Frase 1,FALSE
+82,Exclamative,Frase 1,Frase 1,FALSE
+82,Can’t-find-the-value-of-x question,Frase 1,Frase 1,FALSE
+82,Subject wh-question,Frase 1,Frase 1,FALSE
+83,Declarative,Frase 1,Frase 1,FALSE
+83,Info-seeking wh-question,Frase 1,Frase 1,FALSE
+83,Info-seeking non-wh question,Frase 1,Frase 2,FALSE
+83,"Disapproval echo-question 
+(wh-to-HLP)",Frase 1,Frase 1,FALSE
+83,Object wh question,Frase 1,Frase 2,FALSE
+83,"Disapproval echo question 
+(wh-to-LLP/tutto)",Frase 2,Frase 2,FALSE
+83,"Disapproval echo question 
+(wh-to-LLP/buone)",Frase 2,Frase 2,FALSE
+83,"Unheard echo question 
+(wh-to-LLP/buone)",Frase 1,Frase 2,TRUE
+83,Yes/no question,Frase 1,Frase 2,FALSE
+83,Counter-expectational,Frase 2,Frase 2,FALSE
+83,Rhetorical question,Frase 1,Frase 1,FALSE
+83,Surprise-disapproval question,Frase 2,Frase 2,FALSE
+83,Declarative biased question,Frase 1,Frase 1,FALSE
+83,Exclamative,Frase 1,Frase 1,FALSE
+83,Can’t-find-the-value-of-x question,Frase 1,Frase 1,FALSE
+83,Subject wh-question,Frase 1,Frase 1,FALSE
+84,Declarative,Frase 1,Frase 1,FALSE
+84,Info-seeking wh-question,Frase 1,Frase 1,FALSE
+84,Info-seeking non-wh question,Frase 1,Frase 2,FALSE
+84,"Disapproval echo-question 
+(wh-to-HLP)",Frase 1,Frase 1,FALSE
+84,Object wh question,Frase 1,Frase 2,FALSE
+84,"Disapproval echo question 
+(wh-to-LLP/tutto)",Frase 2,Frase 2,FALSE
+84,"Disapproval echo question 
+(wh-to-LLP/buone)",Frase 1,Frase 2,FALSE
+84,"Unheard echo question 
+(wh-to-LLP/buone)",Frase 1,Frase 2,TRUE
+84,Yes/no question,Frase 2,Frase 2,FALSE
+84,Counter-expectational,Frase 2,Frase 2,FALSE
+84,Rhetorical question,Frase 1,Frase 1,FALSE
+84,Surprise-disapproval question,Frase 2,Frase 2,FALSE
+84,Declarative biased question,Frase 1,Frase 1,FALSE
+84,Exclamative,Frase 1,Frase 1,FALSE
+84,Can’t-find-the-value-of-x question,Frase 1,Frase 1,FALSE
+84,Subject wh-question,Frase 1,Frase 1,FALSE
+85,Declarative,Frase 1,Frase 1,FALSE
+85,Info-seeking wh-question,Frase 1,Frase 1,FALSE
+85,Info-seeking non-wh question,Frase 2,Frase 2,FALSE
+85,"Disapproval echo-question 
+(wh-to-HLP)",Frase 1,Frase 1,FALSE
+85,Object wh question,Frase 1,Frase 2,FALSE
+85,"Disapproval echo question 
+(wh-to-LLP/tutto)",Frase 2,Frase 2,FALSE
+85,"Disapproval echo question 
+(wh-to-LLP/buone)",Frase 2,Frase 2,FALSE
+85,"Unheard echo question 
+(wh-to-LLP/buone)",Frase 1,Frase 2,TRUE
+85,Yes/no question,Frase 2,Frase 2,FALSE
+85,Counter-expectational,Frase 2,Frase 2,FALSE
+85,Rhetorical question,Frase 1,Frase 1,FALSE
+85,Surprise-disapproval question,Frase 2,Frase 2,FALSE
+85,Declarative biased question,Frase 2,Frase 1,FALSE
+85,Exclamative,Frase 1,Frase 1,FALSE
+85,Can’t-find-the-value-of-x question,Frase 1,Frase 1,FALSE
+85,Subject wh-question,Frase 1,Frase 1,FALSE
+86,Declarative,Frase 1,Frase 1,FALSE
+86,Info-seeking wh-question,Frase 1,Frase 1,FALSE
+86,Info-seeking non-wh question,Frase 2,Frase 2,FALSE
+86,"Disapproval echo-question 
+(wh-to-HLP)",Frase 1,Frase 1,FALSE
+86,Object wh question,Frase 1,Frase 2,FALSE
+86,"Disapproval echo question 
+(wh-to-LLP/tutto)",Frase 2,Frase 2,FALSE
+86,"Disapproval echo question 
+(wh-to-LLP/buone)",Frase 2,Frase 2,FALSE
+86,"Unheard echo question 
+(wh-to-LLP/buone)",Frase 1,Frase 2,TRUE
+86,Yes/no question,Frase 2,Frase 2,FALSE
+86,Counter-expectational,Frase 2,Frase 2,FALSE
+86,Rhetorical question,Frase 1,Frase 1,FALSE
+86,Surprise-disapproval question,Frase 2,Frase 2,FALSE
+86,Declarative biased question,Frase 1,Frase 1,FALSE
+86,Exclamative,Frase 1,Frase 1,FALSE
+86,Can’t-find-the-value-of-x question,Frase 1,Frase 1,FALSE
+86,Subject wh-question,Frase 1,Frase 1,FALSE
+87,Declarative,Frase 2,Frase 1,FALSE
+87,Info-seeking wh-question,Frase 1,Frase 1,FALSE
+87,Info-seeking non-wh question,Frase 1,Frase 2,FALSE
+87,"Disapproval echo-question 
+(wh-to-HLP)",Frase 1,Frase 1,FALSE
+87,Object wh question,Frase 2,Frase 2,FALSE
+87,"Disapproval echo question 
+(wh-to-LLP/tutto)",Frase 2,Frase 2,FALSE
+87,"Disapproval echo question 
+(wh-to-LLP/buone)",Frase 2,Frase 2,FALSE
+87,"Unheard echo question 
+(wh-to-LLP/buone)",Frase 2,Frase 2,TRUE
+87,Yes/no question,Frase 1,Frase 2,FALSE
+87,Counter-expectational,Frase 2,Frase 2,FALSE
+87,Rhetorical question,Frase 1,Frase 1,FALSE
+87,Surprise-disapproval question,Frase 2,Frase 2,FALSE
+87,Declarative biased question,Frase 1,Frase 1,FALSE
+87,Exclamative,Frase 1,Frase 1,FALSE
+87,Can’t-find-the-value-of-x question,Frase 1,Frase 1,FALSE
+87,Subject wh-question,Frase 1,Frase 1,FALSE
+88,Declarative,Frase 1,Frase 1,FALSE
+88,Info-seeking wh-question,Frase 1,Frase 1,FALSE
+88,Info-seeking non-wh question,Frase 2,Frase 2,FALSE
+88,"Disapproval echo-question 
+(wh-to-HLP)",Frase 1,Frase 1,FALSE
+88,Object wh question,Frase 1,Frase 2,FALSE
+88,"Disapproval echo question 
+(wh-to-LLP/tutto)",Frase 2,Frase 2,FALSE
+88,"Disapproval echo question 
+(wh-to-LLP/buone)",Frase 1,Frase 2,FALSE
+88,"Unheard echo question 
+(wh-to-LLP/buone)",Frase 1,Frase 2,TRUE
+88,Yes/no question,Frase 1,Frase 2,FALSE
+88,Counter-expectational,Frase 2,Frase 2,FALSE
+88,Rhetorical question,Frase 1,Frase 1,FALSE
+88,Surprise-disapproval question,Frase 2,Frase 2,FALSE
+88,Declarative biased question,Frase 1,Frase 1,FALSE
+88,Exclamative,Frase 1,Frase 1,FALSE
+88,Can’t-find-the-value-of-x question,Frase 1,Frase 1,FALSE
+88,Subject wh-question,Frase 1,Frase 1,FALSE
+89,Declarative,Frase 1,Frase 1,FALSE
+89,Info-seeking wh-question,Frase 1,Frase 1,FALSE
+89,Info-seeking non-wh question,Frase 1,Frase 2,FALSE
+89,"Disapproval echo-question 
+(wh-to-HLP)",Frase 1,Frase 1,FALSE
+89,Object wh question,Frase 1,Frase 2,FALSE
+89,"Disapproval echo question 
+(wh-to-LLP/tutto)",Frase 1,Frase 2,FALSE
+89,"Disapproval echo question 
+(wh-to-LLP/buone)",Frase 2,Frase 2,FALSE
+89,"Unheard echo question 
+(wh-to-LLP/buone)",Frase 1,Frase 2,TRUE
+89,Yes/no question,Frase 1,Frase 2,FALSE
+89,Counter-expectational,Frase 2,Frase 2,FALSE
+89,Rhetorical question,Frase 1,Frase 1,FALSE
+89,Surprise-disapproval question,Frase 1,Frase 2,FALSE
+89,Declarative biased question,Frase 1,Frase 1,FALSE
+89,Exclamative,Frase 1,Frase 1,FALSE
+89,Can’t-find-the-value-of-x question,Frase 1,Frase 1,FALSE
+89,Subject wh-question,Frase 1,Frase 1,FALSE
+90,Declarative,Frase 1,Frase 1,FALSE
+90,Info-seeking wh-question,Frase 1,Frase 1,FALSE
+90,Info-seeking non-wh question,Frase 2,Frase 2,FALSE
+90,"Disapproval echo-question 
+(wh-to-HLP)",Frase 1,Frase 1,FALSE
+90,Object wh question,Frase 1,Frase 2,FALSE
+90,"Disapproval echo question 
+(wh-to-LLP/tutto)",Frase 2,Frase 2,FALSE
+90,"Disapproval echo question 
+(wh-to-LLP/buone)",Frase 2,Frase 2,FALSE
+90,"Unheard echo question 
+(wh-to-LLP/buone)",Frase 1,Frase 2,TRUE
+90,Yes/no question,Frase 2,Frase 2,FALSE
+90,Counter-expectational,Frase 2,Frase 2,FALSE
+90,Rhetorical question,Frase 1,Frase 1,FALSE
+90,Surprise-disapproval question,Frase 2,Frase 2,FALSE
+90,Declarative biased question,Frase 2,Frase 1,FALSE
+90,Exclamative,Frase 1,Frase 1,FALSE
+90,Can’t-find-the-value-of-x question,Frase 1,Frase 1,FALSE
+90,Subject wh-question,Frase 1,Frase 1,FALSE
+91,Declarative,Frase 1,Frase 1,FALSE
+91,Info-seeking wh-question,Frase 1,Frase 1,FALSE
+91,Info-seeking non-wh question,Frase 2,Frase 2,FALSE
+91,"Disapproval echo-question 
+(wh-to-HLP)",Frase 1,Frase 1,FALSE
+91,Object wh question,Frase 2,Frase 2,FALSE
+91,"Disapproval echo question 
+(wh-to-LLP/tutto)",Frase 2,Frase 2,FALSE
+91,"Disapproval echo question 
+(wh-to-LLP/buone)",Frase 1,Frase 2,FALSE
+91,"Unheard echo question 
+(wh-to-LLP/buone)",Frase 1,Frase 2,TRUE
+91,Yes/no question,Frase 1,Frase 2,FALSE
+91,Counter-expectational,Frase 2,Frase 2,FALSE
+91,Rhetorical question,Frase 1,Frase 1,FALSE
+91,Surprise-disapproval question,Frase 2,Frase 2,FALSE
+91,Declarative biased question,Frase 2,Frase 1,FALSE
+91,Exclamative,Frase 1,Frase 1,FALSE
+91,Can’t-find-the-value-of-x question,Frase 1,Frase 1,FALSE
+91,Subject wh-question,Frase 1,Frase 1,FALSE
+92,Declarative,Frase 1,Frase 1,FALSE
+92,Info-seeking wh-question,Frase 2,Frase 1,FALSE
+92,Info-seeking non-wh question,Frase 2,Frase 2,FALSE
+92,"Disapproval echo-question 
+(wh-to-HLP)",Frase 1,Frase 1,FALSE
+92,Object wh question,Frase 2,Frase 2,FALSE
+92,"Disapproval echo question 
+(wh-to-LLP/tutto)",Frase 1,Frase 2,FALSE
+92,"Disapproval echo question 
+(wh-to-LLP/buone)",Frase 2,Frase 2,FALSE
+92,"Unheard echo question 
+(wh-to-LLP/buone)",Frase 1,Frase 2,TRUE
+92,Yes/no question,Frase 2,Frase 2,FALSE
+92,Counter-expectational,Frase 2,Frase 2,FALSE
+92,Rhetorical question,Frase 1,Frase 1,FALSE
+92,Surprise-disapproval question,Frase 2,Frase 2,FALSE
+92,Declarative biased question,Frase 2,Frase 1,FALSE
+92,Exclamative,Frase 1,Frase 1,FALSE
+92,Can’t-find-the-value-of-x question,Frase 1,Frase 1,FALSE
+92,Subject wh-question,Frase 2,Frase 1,FALSE
+93,Declarative,Frase 1,Frase 1,FALSE
+93,Info-seeking wh-question,Frase 1,Frase 1,FALSE
+93,Info-seeking non-wh question,Frase 2,Frase 2,FALSE
+93,"Disapproval echo-question 
+(wh-to-HLP)",Frase 1,Frase 1,FALSE
+93,Object wh question,Frase 1,Frase 2,FALSE
+93,"Disapproval echo question 
+(wh-to-LLP/tutto)",Frase 1,Frase 2,FALSE
+93,"Disapproval echo question 
+(wh-to-LLP/buone)",Frase 1,Frase 2,FALSE
+93,"Unheard echo question 
+(wh-to-LLP/buone)",Frase 1,Frase 2,TRUE
+93,Yes/no question,Frase 2,Frase 2,FALSE
+93,Counter-expectational,Frase 2,Frase 2,FALSE
+93,Rhetorical question,Frase 1,Frase 1,FALSE
+93,Surprise-disapproval question,Frase 2,Frase 2,FALSE
+93,Declarative biased question,Frase 2,Frase 1,FALSE
+93,Exclamative,Frase 1,Frase 1,FALSE
+93,Can’t-find-the-value-of-x question,Frase 1,Frase 1,FALSE
+93,Subject wh-question,Frase 2,Frase 1,FALSE
+94,Declarative,Frase 1,Frase 1,FALSE
+94,Info-seeking wh-question,Frase 1,Frase 1,FALSE
+94,Info-seeking non-wh question,Frase 2,Frase 2,FALSE
+94,"Disapproval echo-question 
+(wh-to-HLP)",Frase 1,Frase 1,FALSE
+94,Object wh question,Frase 1,Frase 2,FALSE
+94,"Disapproval echo question 
+(wh-to-LLP/tutto)",Frase 2,Frase 2,FALSE
+94,"Disapproval echo question 
+(wh-to-LLP/buone)",Frase 2,Frase 2,FALSE
+94,"Unheard echo question 
+(wh-to-LLP/buone)",Frase 1,Frase 2,TRUE
+94,Yes/no question,Frase 2,Frase 2,FALSE
+94,Counter-expectational,Frase 2,Frase 2,FALSE
+94,Rhetorical question,Frase 1,Frase 1,FALSE
+94,Surprise-disapproval question,Frase 2,Frase 2,FALSE
+94,Declarative biased question,Frase 1,Frase 1,FALSE
+94,Exclamative,Frase 1,Frase 1,FALSE
+94,Can’t-find-the-value-of-x question,Frase 1,Frase 1,FALSE
+94,Subject wh-question,Frase 1,Frase 1,FALSE
+95,Declarative,Frase 2,Frase 1,FALSE
+95,Info-seeking wh-question,Frase 2,Frase 1,FALSE
+95,Info-seeking non-wh question,Frase 2,Frase 2,FALSE
+95,"Disapproval echo-question 
+(wh-to-HLP)",Frase 1,Frase 1,FALSE
+95,Object wh question,Frase 1,Frase 2,FALSE
+95,"Disapproval echo question 
+(wh-to-LLP/tutto)",Frase 2,Frase 2,FALSE
+95,"Disapproval echo question 
+(wh-to-LLP/buone)",Frase 2,Frase 2,FALSE
+95,"Unheard echo question 
+(wh-to-LLP/buone)",Frase 2,Frase 2,TRUE
+95,Yes/no question,Frase 1,Frase 2,FALSE
+95,Counter-expectational,Frase 2,Frase 2,FALSE
+95,Rhetorical question,Frase 1,Frase 1,FALSE
+95,Surprise-disapproval question,Frase 2,Frase 2,FALSE
+95,Declarative biased question,Frase 2,Frase 1,FALSE
+95,Exclamative,Frase 1,Frase 1,FALSE
+95,Can’t-find-the-value-of-x question,Frase 1,Frase 1,FALSE
+95,Subject wh-question,Frase 2,Frase 1,FALSE
+96,Declarative,Frase 1,Frase 1,FALSE
+96,Info-seeking wh-question,Frase 1,Frase 1,FALSE
+96,Info-seeking non-wh question,Frase 1,Frase 2,FALSE
+96,"Disapproval echo-question 
+(wh-to-HLP)",Frase 1,Frase 1,FALSE
+96,Object wh question,Frase 2,Frase 2,FALSE
+96,"Disapproval echo question 
+(wh-to-LLP/tutto)",Frase 1,Frase 2,FALSE
+96,"Disapproval echo question 
+(wh-to-LLP/buone)",Frase 2,Frase 2,FALSE
+96,"Unheard echo question 
+(wh-to-LLP/buone)",Frase 1,Frase 2,TRUE
+96,Yes/no question,Frase 1,Frase 2,FALSE
+96,Counter-expectational,Frase 2,Frase 2,FALSE
+96,Rhetorical question,Frase 1,Frase 1,FALSE
+96,Surprise-disapproval question,Frase 2,Frase 2,FALSE
+96,Declarative biased question,Frase 1,Frase 1,FALSE
+96,Exclamative,Frase 1,Frase 1,FALSE
+96,Can’t-find-the-value-of-x question,Frase 1,Frase 1,FALSE
+96,Subject wh-question,Frase 1,Frase 1,FALSE
+97,Declarative,Frase 1,Frase 1,FALSE
+97,Info-seeking wh-question,Frase 1,Frase 1,FALSE
+97,Info-seeking non-wh question,Frase 2,Frase 2,FALSE
+97,"Disapproval echo-question 
+(wh-to-HLP)",Frase 2,Frase 1,FALSE
+97,Object wh question,Frase 2,Frase 2,FALSE
+97,"Disapproval echo question 
+(wh-to-LLP/tutto)",Frase 2,Frase 2,FALSE
+97,"Disapproval echo question 
+(wh-to-LLP/buone)",Frase 2,Frase 2,FALSE
+97,"Unheard echo question 
+(wh-to-LLP/buone)",Frase 1,Frase 2,TRUE
+97,Yes/no question,Frase 2,Frase 2,FALSE
+97,Counter-expectational,Frase 1,Frase 2,FALSE
+97,Rhetorical question,Frase 1,Frase 1,FALSE
+97,Surprise-disapproval question,Frase 1,Frase 2,FALSE
+97,Declarative biased question,Frase 2,Frase 1,FALSE
+97,Exclamative,Frase 1,Frase 1,FALSE
+97,Can’t-find-the-value-of-x question,Frase 1,Frase 1,FALSE
+97,Subject wh-question,Frase 2,Frase 1,FALSE
+98,Declarative,Frase 1,Frase 1,FALSE
+98,Info-seeking wh-question,Frase 1,Frase 1,FALSE
+98,Info-seeking non-wh question,Frase 1,Frase 2,FALSE
+98,"Disapproval echo-question 
+(wh-to-HLP)",Frase 1,Frase 1,FALSE
+98,Object wh question,Frase 1,Frase 2,FALSE
+98,"Disapproval echo question 
+(wh-to-LLP/tutto)",Frase 2,Frase 2,FALSE
+98,"Disapproval echo question 
+(wh-to-LLP/buone)",Frase 2,Frase 2,FALSE
+98,"Unheard echo question 
+(wh-to-LLP/buone)",Frase 1,Frase 2,TRUE
+98,Yes/no question,Frase 2,Frase 2,FALSE
+98,Counter-expectational,Frase 2,Frase 2,FALSE
+98,Rhetorical question,Frase 1,Frase 1,FALSE
+98,Surprise-disapproval question,Frase 2,Frase 2,FALSE
+98,Declarative biased question,Frase 2,Frase 1,FALSE
+98,Exclamative,Frase 2,Frase 1,FALSE
+98,Can’t-find-the-value-of-x question,Frase 1,Frase 1,FALSE
+98,Subject wh-question,Frase 1,Frase 1,FALSE
+99,Declarative,Frase 1,Frase 1,FALSE
+99,Info-seeking wh-question,Frase 1,Frase 1,FALSE
+99,Info-seeking non-wh question,Frase 1,Frase 2,FALSE
+99,"Disapproval echo-question 
+(wh-to-HLP)",Frase 1,Frase 1,FALSE
+99,Object wh question,Frase 1,Frase 2,FALSE
+99,"Disapproval echo question 
+(wh-to-LLP/tutto)",Frase 2,Frase 2,FALSE
+99,"Disapproval echo question 
+(wh-to-LLP/buone)",Frase 2,Frase 2,FALSE
+99,"Unheard echo question 
+(wh-to-LLP/buone)",Frase 1,Frase 2,TRUE
+99,Yes/no question,Frase 2,Frase 2,FALSE
+99,Counter-expectational,Frase 2,Frase 2,FALSE
+99,Rhetorical question,Frase 1,Frase 1,FALSE
+99,Surprise-disapproval question,Frase 2,Frase 2,FALSE
+99,Declarative biased question,Frase 1,Frase 1,FALSE
+99,Exclamative,Frase 1,Frase 1,FALSE
+99,Can’t-find-the-value-of-x question,Frase 1,Frase 1,FALSE
+99,Subject wh-question,Frase 1,Frase 1,FALSE
+100,Declarative,Frase 1,Frase 1,FALSE
+100,Info-seeking wh-question,Frase 1,Frase 1,FALSE
+100,Info-seeking non-wh question,Frase 2,Frase 2,FALSE
+100,"Disapproval echo-question 
+(wh-to-HLP)",Frase 1,Frase 1,FALSE
+100,Object wh question,Frase 1,Frase 2,FALSE
+100,"Disapproval echo question 
+(wh-to-LLP/tutto)",Frase 1,Frase 2,FALSE
+100,"Disapproval echo question 
+(wh-to-LLP/buone)",Frase 1,Frase 2,FALSE
+100,"Unheard echo question 
+(wh-to-LLP/buone)",Frase 2,Frase 2,TRUE
+100,Yes/no question,Frase 2,Frase 2,FALSE
+100,Counter-expectational,Frase 2,Frase 2,FALSE
+100,Rhetorical question,Frase 1,Frase 1,FALSE
+100,Surprise-disapproval question,Frase 2,Frase 2,FALSE
+100,Declarative biased question,Frase 1,Frase 1,FALSE
+100,Exclamative,Frase 1,Frase 1,FALSE
+100,Can’t-find-the-value-of-x question,Frase 1,Frase 1,FALSE
+100,Subject wh-question,Frase 1,Frase 1,FALSE
+101,Declarative,Frase 2,Frase 1,FALSE
+101,Info-seeking wh-question,Frase 1,Frase 1,FALSE
+101,Info-seeking non-wh question,Frase 2,Frase 2,FALSE
+101,"Disapproval echo-question 
+(wh-to-HLP)",Frase 2,Frase 1,FALSE
+101,Object wh question,Frase 1,Frase 2,FALSE
+101,"Disapproval echo question 
+(wh-to-LLP/tutto)",Frase 2,Frase 2,FALSE
+101,"Disapproval echo question 
+(wh-to-LLP/buone)",Frase 2,Frase 2,FALSE
+101,"Unheard echo question 
+(wh-to-LLP/buone)",Frase 1,Frase 2,TRUE
+101,Yes/no question,Frase 2,Frase 2,FALSE
+101,Counter-expectational,Frase 2,Frase 2,FALSE
+101,Rhetorical question,Frase 1,Frase 1,FALSE
+101,Surprise-disapproval question,Frase 2,Frase 2,FALSE
+101,Declarative biased question,Frase 2,Frase 1,FALSE
+101,Exclamative,Frase 1,Frase 1,FALSE
+101,Can’t-find-the-value-of-x question,Frase 1,Frase 1,FALSE
+101,Subject wh-question,Frase 2,Frase 1,FALSE
+102,Declarative,Frase 2,Frase 1,FALSE
+102,Info-seeking wh-question,Frase 2,Frase 1,FALSE
+102,Info-seeking non-wh question,Frase 1,Frase 2,FALSE
+102,"Disapproval echo-question 
+(wh-to-HLP)",Frase 1,Frase 1,FALSE
+102,Object wh question,Frase 1,Frase 2,FALSE
+102,"Disapproval echo question 
+(wh-to-LLP/tutto)",Frase 2,Frase 2,FALSE
+102,"Disapproval echo question 
+(wh-to-LLP/buone)",Frase 2,Frase 2,FALSE
+102,"Unheard echo question 
+(wh-to-LLP/buone)",Frase 1,Frase 2,TRUE
+102,Yes/no question,Frase 2,Frase 2,FALSE
+102,Counter-expectational,Frase 2,Frase 2,FALSE
+102,Rhetorical question,Frase 1,Frase 1,FALSE
+102,Surprise-disapproval question,Frase 2,Frase 2,FALSE
+102,Declarative biased question,Frase 2,Frase 1,FALSE
+102,Exclamative,Frase 1,Frase 1,FALSE
+102,Can’t-find-the-value-of-x question,Frase 1,Frase 1,FALSE
+102,Subject wh-question,Frase 1,Frase 1,FALSE
+103,Declarative,Frase 1,Frase 1,FALSE
+103,Info-seeking wh-question,Frase 1,Frase 1,FALSE
+103,Info-seeking non-wh question,Frase 2,Frase 2,FALSE
+103,"Disapproval echo-question 
+(wh-to-HLP)",Frase 1,Frase 1,FALSE
+103,Object wh question,Frase 1,Frase 2,FALSE
+103,"Disapproval echo question 
+(wh-to-LLP/tutto)",Frase 2,Frase 2,FALSE
+103,"Disapproval echo question 
+(wh-to-LLP/buone)",Frase 2,Frase 2,FALSE
+103,"Unheard echo question 
+(wh-to-LLP/buone)",Frase 1,Frase 2,TRUE
+103,Yes/no question,Frase 2,Frase 2,FALSE
+103,Counter-expectational,Frase 2,Frase 2,FALSE
+103,Rhetorical question,Frase 1,Frase 1,FALSE
+103,Surprise-disapproval question,Frase 2,Frase 2,FALSE
+103,Declarative biased question,Frase 2,Frase 1,FALSE
+103,Exclamative,Frase 1,Frase 1,FALSE
+103,Can’t-find-the-value-of-x question,Frase 1,Frase 1,FALSE
+103,Subject wh-question,Frase 1,Frase 1,FALSE
+104,Declarative,Frase 1,Frase 1,FALSE
+104,Info-seeking wh-question,Frase 1,Frase 1,FALSE
+104,Info-seeking non-wh question,Frase 2,Frase 2,FALSE
+104,"Disapproval echo-question 
+(wh-to-HLP)",Frase 1,Frase 1,FALSE
+104,Object wh question,Frase 1,Frase 2,FALSE
+104,"Disapproval echo question 
+(wh-to-LLP/tutto)",Frase 2,Frase 2,FALSE
+104,"Disapproval echo question 
+(wh-to-LLP/buone)",Frase 2,Frase 2,FALSE
+104,"Unheard echo question 
+(wh-to-LLP/buone)",Frase 1,Frase 2,TRUE
+104,Yes/no question,Frase 1,Frase 2,FALSE
+104,Counter-expectational,Frase 2,Frase 2,FALSE
+104,Rhetorical question,Frase 2,Frase 1,FALSE
+104,Surprise-disapproval question,Frase 2,Frase 2,FALSE
+104,Declarative biased question,Frase 2,Frase 1,FALSE
+104,Exclamative,Frase 1,Frase 1,FALSE
+104,Can’t-find-the-value-of-x question,Frase 1,Frase 1,FALSE
+104,Subject wh-question,Frase 2,Frase 1,FALSE
+105,Declarative,Frase 1,Frase 1,FALSE
+105,Info-seeking wh-question,Frase 1,Frase 1,FALSE
+105,Info-seeking non-wh question,Frase 2,Frase 2,FALSE
+105,"Disapproval echo-question 
+(wh-to-HLP)",Frase 1,Frase 1,FALSE
+105,Object wh question,Frase 1,Frase 2,FALSE
+105,"Disapproval echo question 
+(wh-to-LLP/tutto)",Frase 2,Frase 2,FALSE
+105,"Disapproval echo question 
+(wh-to-LLP/buone)",Frase 1,Frase 2,FALSE
+105,"Unheard echo question 
+(wh-to-LLP/buone)",Frase 1,Frase 2,TRUE
+105,Yes/no question,Frase 1,Frase 2,FALSE
+105,Counter-expectational,Frase 2,Frase 2,FALSE
+105,Rhetorical question,Frase 1,Frase 1,FALSE
+105,Surprise-disapproval question,Frase 2,Frase 2,FALSE
+105,Declarative biased question,Frase 1,Frase 1,FALSE
+105,Exclamative,Frase 1,Frase 1,FALSE
+105,Can’t-find-the-value-of-x question,Frase 1,Frase 1,FALSE
+105,Subject wh-question,Frase 1,Frase 1,FALSE
+106,Declarative,Frase 1,Frase 1,FALSE
+106,Info-seeking wh-question,Frase 1,Frase 1,FALSE
+106,Info-seeking non-wh question,Frase 2,Frase 2,FALSE
+106,"Disapproval echo-question 
+(wh-to-HLP)",Frase 1,Frase 1,FALSE
+106,Object wh question,Frase 1,Frase 2,FALSE
+106,"Disapproval echo question 
+(wh-to-LLP/tutto)",Frase 1,Frase 2,FALSE
+106,"Disapproval echo question 
+(wh-to-LLP/buone)",Frase 2,Frase 2,FALSE
+106,"Unheard echo question 
+(wh-to-LLP/buone)",Frase 1,Frase 2,TRUE
+106,Yes/no question,Frase 2,Frase 2,FALSE
+106,Counter-expectational,Frase 2,Frase 2,FALSE
+106,Rhetorical question,Frase 1,Frase 1,FALSE
+106,Surprise-disapproval question,Frase 2,Frase 2,FALSE
+106,Declarative biased question,Frase 2,Frase 1,FALSE
+106,Exclamative,Frase 1,Frase 1,FALSE
+106,Can’t-find-the-value-of-x question,Frase 1,Frase 1,FALSE
+106,Subject wh-question,Frase 1,Frase 1,FALSE
+107,Declarative,Frase 1,Frase 1,FALSE
+107,Info-seeking wh-question,Frase 1,Frase 1,FALSE
+107,Info-seeking non-wh question,Frase 1,Frase 2,FALSE
+107,"Disapproval echo-question 
+(wh-to-HLP)",Frase 1,Frase 1,FALSE
+107,Object wh question,Frase 2,Frase 2,FALSE
+107,"Disapproval echo question 
+(wh-to-LLP/tutto)",Frase 2,Frase 2,FALSE
+107,"Disapproval echo question 
+(wh-to-LLP/buone)",Frase 2,Frase 2,FALSE
+107,"Unheard echo question 
+(wh-to-LLP/buone)",Frase 1,Frase 2,TRUE
+107,Yes/no question,Frase 1,Frase 2,FALSE
+107,Counter-expectational,Frase 2,Frase 2,FALSE
+107,Rhetorical question,Frase 1,Frase 1,FALSE
+107,Surprise-disapproval question,Frase 2,Frase 2,FALSE
+107,Declarative biased question,Frase 1,Frase 1,FALSE
+107,Exclamative,Frase 1,Frase 1,FALSE
+107,Can’t-find-the-value-of-x question,Frase 1,Frase 1,FALSE
+107,Subject wh-question,Frase 1,Frase 1,FALSE
+108,Declarative,Frase 2,Frase 1,FALSE
+108,Info-seeking wh-question,Frase 1,Frase 1,FALSE
+108,Info-seeking non-wh question,Frase 1,Frase 2,FALSE
+108,"Disapproval echo-question 
+(wh-to-HLP)",Frase 1,Frase 1,FALSE
+108,Object wh question,Frase 2,Frase 2,FALSE
+108,"Disapproval echo question 
+(wh-to-LLP/tutto)",Frase 2,Frase 2,FALSE
+108,"Disapproval echo question 
+(wh-to-LLP/buone)",Frase 2,Frase 2,FALSE
+108,"Unheard echo question 
+(wh-to-LLP/buone)",Frase 2,Frase 2,TRUE
+108,Yes/no question,Frase 1,Frase 2,FALSE
+108,Counter-expectational,Frase 2,Frase 2,FALSE
+108,Rhetorical question,Frase 1,Frase 1,FALSE
+108,Surprise-disapproval question,Frase 2,Frase 2,FALSE
+108,Declarative biased question,Frase 1,Frase 1,FALSE
+108,Exclamative,Frase 1,Frase 1,FALSE
+108,Can’t-find-the-value-of-x question,Frase 1,Frase 1,FALSE
+108,Subject wh-question,Frase 1,Frase 1,FALSE
+109,Declarative,Frase 1,Frase 1,FALSE
+109,Info-seeking wh-question,Frase 1,Frase 1,FALSE
+109,Info-seeking non-wh question,Frase 2,Frase 2,FALSE
+109,"Disapproval echo-question 
+(wh-to-HLP)",Frase 2,Frase 1,FALSE
+109,Object wh question,Frase 1,Frase 2,FALSE
+109,"Disapproval echo question 
+(wh-to-LLP/tutto)",Frase 2,Frase 2,FALSE
+109,"Disapproval echo question 
+(wh-to-LLP/buone)",Frase 2,Frase 2,FALSE
+109,"Unheard echo question 
+(wh-to-LLP/buone)",Frase 1,Frase 2,TRUE
+109,Yes/no question,Frase 2,Frase 2,FALSE
+109,Counter-expectational,Frase 2,Frase 2,FALSE
+109,Rhetorical question,Frase 1,Frase 1,FALSE
+109,Surprise-disapproval question,Frase 2,Frase 2,FALSE
+109,Declarative biased question,Frase 1,Frase 1,FALSE
+109,Exclamative,Frase 1,Frase 1,FALSE
+109,Can’t-find-the-value-of-x question,Frase 1,Frase 1,FALSE
+109,Subject wh-question,Frase 1,Frase 1,FALSE
+110,Declarative,Frase 1,Frase 1,FALSE
+110,Info-seeking wh-question,Frase 1,Frase 1,FALSE
+110,Info-seeking non-wh question,Frase 1,Frase 2,FALSE
+110,"Disapproval echo-question 
+(wh-to-HLP)",Frase 1,Frase 1,FALSE
+110,Object wh question,Frase 2,Frase 2,FALSE
+110,"Disapproval echo question 
+(wh-to-LLP/tutto)",Frase 2,Frase 2,FALSE
+110,"Disapproval echo question 
+(wh-to-LLP/buone)",Frase 2,Frase 2,FALSE
+110,"Unheard echo question 
+(wh-to-LLP/buone)",Frase 1,Frase 2,TRUE
+110,Yes/no question,Frase 1,Frase 2,FALSE
+110,Counter-expectational,Frase 2,Frase 2,FALSE
+110,Rhetorical question,Frase 1,Frase 1,FALSE
+110,Surprise-disapproval question,Frase 2,Frase 2,FALSE
+110,Declarative biased question,Frase 1,Frase 1,FALSE
+110,Exclamative,Frase 1,Frase 1,FALSE
+110,Can’t-find-the-value-of-x question,Frase 1,Frase 1,FALSE
+110,Subject wh-question,Frase 1,Frase 1,FALSE
+111,Declarative,Frase 1,Frase 1,FALSE
+111,Info-seeking wh-question,Frase 1,Frase 1,FALSE
+111,Info-seeking non-wh question,Frase 2,Frase 2,FALSE
+111,"Disapproval echo-question 
+(wh-to-HLP)",Frase 1,Frase 1,FALSE
+111,Object wh question,Frase 1,Frase 2,FALSE
+111,"Disapproval echo question 
+(wh-to-LLP/tutto)",Frase 2,Frase 2,FALSE
+111,"Disapproval echo question 
+(wh-to-LLP/buone)",Frase 1,Frase 2,FALSE
+111,"Unheard echo question 
+(wh-to-LLP/buone)",Frase 1,Frase 2,TRUE
+111,Yes/no question,Frase 2,Frase 2,FALSE
+111,Counter-expectational,Frase 2,Frase 2,FALSE
+111,Rhetorical question,Frase 1,Frase 1,FALSE
+111,Surprise-disapproval question,Frase 2,Frase 2,FALSE
+111,Declarative biased question,Frase 2,Frase 1,FALSE
+111,Exclamative,Frase 1,Frase 1,FALSE
+111,Can’t-find-the-value-of-x question,Frase 1,Frase 1,FALSE
+111,Subject wh-question,Frase 1,Frase 1,FALSE
+112,Declarative,Frase 2,Frase 1,FALSE
+112,Info-seeking wh-question,Frase 1,Frase 1,FALSE
+112,Info-seeking non-wh question,Frase 1,Frase 2,FALSE
+112,"Disapproval echo-question 
+(wh-to-HLP)",Frase 1,Frase 1,FALSE
+112,Object wh question,Frase 1,Frase 2,FALSE
+112,"Disapproval echo question 
+(wh-to-LLP/tutto)",Frase 2,Frase 2,FALSE
+112,"Disapproval echo question 
+(wh-to-LLP/buone)",Frase 2,Frase 2,FALSE
+112,"Unheard echo question 
+(wh-to-LLP/buone)",Frase 1,Frase 2,TRUE
+112,Yes/no question,Frase 1,Frase 2,FALSE
+112,Counter-expectational,Frase 2,Frase 2,FALSE
+112,Rhetorical question,Frase 1,Frase 1,FALSE
+112,Surprise-disapproval question,Frase 2,Frase 2,FALSE
+112,Declarative biased question,Frase 1,Frase 1,FALSE
+112,Exclamative,Frase 1,Frase 1,FALSE
+112,Can’t-find-the-value-of-x question,Frase 1,Frase 1,FALSE
+112,Subject wh-question,Frase 1,Frase 1,FALSE
+113,Declarative,Frase 1,Frase 1,FALSE
+113,Info-seeking wh-question,Frase 1,Frase 1,FALSE
+113,Info-seeking non-wh question,Frase 1,Frase 2,FALSE
+113,"Disapproval echo-question 
+(wh-to-HLP)",Frase 1,Frase 1,FALSE
+113,Object wh question,Frase 1,Frase 2,FALSE
+113,"Disapproval echo question 
+(wh-to-LLP/tutto)",Frase 2,Frase 2,FALSE
+113,"Disapproval echo question 
+(wh-to-LLP/buone)",Frase 2,Frase 2,FALSE
+113,"Unheard echo question 
+(wh-to-LLP/buone)",Frase 1,Frase 2,TRUE
+113,Yes/no question,Frase 1,Frase 2,FALSE
+113,Counter-expectational,Frase 2,Frase 2,FALSE
+113,Rhetorical question,Frase 1,Frase 1,FALSE
+113,Surprise-disapproval question,Frase 2,Frase 2,FALSE
+113,Declarative biased question,Frase 1,Frase 1,FALSE
+113,Exclamative,Frase 1,Frase 1,FALSE
+113,Can’t-find-the-value-of-x question,Frase 1,Frase 1,FALSE
+113,Subject wh-question,Frase 1,Frase 1,FALSE
+114,Declarative,Frase 1,Frase 1,FALSE
+114,Info-seeking wh-question,Frase 1,Frase 1,FALSE
+114,Info-seeking non-wh question,Frase 2,Frase 2,FALSE
+114,"Disapproval echo-question 
+(wh-to-HLP)",Frase 1,Frase 1,FALSE
+114,Object wh question,Frase 1,Frase 2,FALSE
+114,"Disapproval echo question 
+(wh-to-LLP/tutto)",Frase 2,Frase 2,FALSE
+114,"Disapproval echo question 
+(wh-to-LLP/buone)",Frase 2,Frase 2,FALSE
+114,"Unheard echo question 
+(wh-to-LLP/buone)",Frase 1,Frase 2,TRUE
+114,Yes/no question,Frase 2,Frase 2,FALSE
+114,Counter-expectational,Frase 2,Frase 2,FALSE
+114,Rhetorical question,Frase 1,Frase 1,FALSE
+114,Surprise-disapproval question,Frase 2,Frase 2,FALSE
+114,Declarative biased question,Frase 1,Frase 1,FALSE
+114,Exclamative,Frase 1,Frase 1,FALSE
+114,Can’t-find-the-value-of-x question,Frase 1,Frase 1,FALSE
+114,Subject wh-question,Frase 1,Frase 1,FALSE
+115,Declarative,Frase 1,Frase 1,FALSE
+115,Info-seeking wh-question,Frase 2,Frase 1,FALSE
+115,Info-seeking non-wh question,Frase 1,Frase 2,FALSE
+115,"Disapproval echo-question 
+(wh-to-HLP)",Frase 1,Frase 1,FALSE
+115,Object wh question,Frase 1,Frase 2,FALSE
+115,"Disapproval echo question 
+(wh-to-LLP/tutto)",Frase 2,Frase 2,FALSE
+115,"Disapproval echo question 
+(wh-to-LLP/buone)",Frase 2,Frase 2,FALSE
+115,"Unheard echo question 
+(wh-to-LLP/buone)",Frase 1,Frase 2,TRUE
+115,Yes/no question,Frase 2,Frase 2,FALSE
+115,Counter-expectational,Frase 2,Frase 2,FALSE
+115,Rhetorical question,Frase 1,Frase 1,FALSE
+115,Surprise-disapproval question,Frase 2,Frase 2,FALSE
+115,Declarative biased question,Frase 2,Frase 1,FALSE
+115,Exclamative,Frase 1,Frase 1,FALSE
+115,Can’t-find-the-value-of-x question,Frase 1,Frase 1,FALSE
+115,Subject wh-question,Frase 1,Frase 1,FALSE
+116,Declarative,Frase 1,Frase 1,FALSE
+116,Info-seeking wh-question,Frase 2,Frase 1,FALSE
+116,Info-seeking non-wh question,Frase 2,Frase 2,FALSE
+116,"Disapproval echo-question 
+(wh-to-HLP)",Frase 1,Frase 1,FALSE
+116,Object wh question,Frase 1,Frase 2,FALSE
+116,"Disapproval echo question 
+(wh-to-LLP/tutto)",Frase 2,Frase 2,FALSE
+116,"Disapproval echo question 
+(wh-to-LLP/buone)",Frase 2,Frase 2,FALSE
+116,"Unheard echo question 
+(wh-to-LLP/buone)",Frase 1,Frase 2,TRUE
+116,Yes/no question,Frase 1,Frase 2,FALSE
+116,Counter-expectational,Frase 2,Frase 2,FALSE
+116,Rhetorical question,Frase 2,Frase 1,FALSE
+116,Surprise-disapproval question,Frase 2,Frase 2,FALSE
+116,Declarative biased question,Frase 1,Frase 1,FALSE
+116,Exclamative,Frase 1,Frase 1,FALSE
+116,Can’t-find-the-value-of-x question,Frase 2,Frase 1,FALSE
+116,Subject wh-question,Frase 2,Frase 1,FALSE
+117,Declarative,Frase 1,Frase 1,FALSE
+117,Info-seeking wh-question,Frase 1,Frase 1,FALSE
+117,Info-seeking non-wh question,Frase 1,Frase 2,FALSE
+117,"Disapproval echo-question 
+(wh-to-HLP)",Frase 1,Frase 1,FALSE
+117,Object wh question,Frase 2,Frase 2,FALSE
+117,"Disapproval echo question 
+(wh-to-LLP/tutto)",Frase 2,Frase 2,FALSE
+117,"Disapproval echo question 
+(wh-to-LLP/buone)",Frase 2,Frase 2,FALSE
+117,"Unheard echo question 
+(wh-to-LLP/buone)",Frase 1,Frase 2,TRUE
+117,Yes/no question,Frase 2,Frase 2,FALSE
+117,Counter-expectational,Frase 2,Frase 2,FALSE
+117,Rhetorical question,Frase 1,Frase 1,FALSE
+117,Surprise-disapproval question,Frase 2,Frase 2,FALSE
+117,Declarative biased question,Frase 2,Frase 1,FALSE
+117,Exclamative,Frase 1,Frase 1,FALSE
+117,Can’t-find-the-value-of-x question,Frase 1,Frase 1,FALSE
+117,Subject wh-question,Frase 2,Frase 1,FALSE
+118,Declarative,Frase 1,Frase 1,FALSE
+118,Info-seeking wh-question,Frase 1,Frase 1,FALSE
+118,Info-seeking non-wh question,Frase 1,Frase 2,FALSE
+118,"Disapproval echo-question 
+(wh-to-HLP)",Frase 1,Frase 1,FALSE
+118,Object wh question,Frase 1,Frase 2,FALSE
+118,"Disapproval echo question 
+(wh-to-LLP/tutto)",Frase 2,Frase 2,FALSE
+118,"Disapproval echo question 
+(wh-to-LLP/buone)",Frase 2,Frase 2,FALSE
+118,"Unheard echo question 
+(wh-to-LLP/buone)",Frase 1,Frase 2,TRUE
+118,Yes/no question,Frase 2,Frase 2,FALSE
+118,Counter-expectational,Frase 2,Frase 2,FALSE
+118,Rhetorical question,Frase 1,Frase 1,FALSE
+118,Surprise-disapproval question,Frase 2,Frase 2,FALSE
+118,Declarative biased question,Frase 1,Frase 1,FALSE
+118,Exclamative,Frase 1,Frase 1,FALSE
+118,Can’t-find-the-value-of-x question,Frase 1,Frase 1,FALSE
+118,Subject wh-question,Frase 1,Frase 1,FALSE
+119,Declarative,Frase 2,Frase 1,FALSE
+119,Info-seeking wh-question,Frase 1,Frase 1,FALSE
+119,Info-seeking non-wh question,Frase 1,Frase 2,FALSE
+119,"Disapproval echo-question 
+(wh-to-HLP)",Frase 1,Frase 1,FALSE
+119,Object wh question,Frase 1,Frase 2,FALSE
+119,"Disapproval echo question 
+(wh-to-LLP/tutto)",Frase 2,Frase 2,FALSE
+119,"Disapproval echo question 
+(wh-to-LLP/buone)",Frase 2,Frase 2,FALSE
+119,"Unheard echo question 
+(wh-to-LLP/buone)",Frase 1,Frase 2,TRUE
+119,Yes/no question,Frase 2,Frase 2,FALSE
+119,Counter-expectational,Frase 2,Frase 2,FALSE
+119,Rhetorical question,Frase 1,Frase 1,FALSE
+119,Surprise-disapproval question,Frase 2,Frase 2,FALSE
+119,Declarative biased question,Frase 1,Frase 1,FALSE
+119,Exclamative,Frase 1,Frase 1,FALSE
+119,Can’t-find-the-value-of-x question,Frase 1,Frase 1,FALSE
+119,Subject wh-question,Frase 1,Frase 1,FALSE
+120,Declarative,Frase 1,Frase 1,FALSE
+120,Info-seeking wh-question,Frase 2,Frase 1,FALSE
+120,Info-seeking non-wh question,Frase 2,Frase 2,FALSE
+120,"Disapproval echo-question 
+(wh-to-HLP)",Frase 1,Frase 1,FALSE
+120,Object wh question,Frase 1,Frase 2,FALSE
+120,"Disapproval echo question 
+(wh-to-LLP/tutto)",Frase 1,Frase 2,FALSE
+120,"Disapproval echo question 
+(wh-to-LLP/buone)",Frase 2,Frase 2,FALSE
+120,"Unheard echo question 
+(wh-to-LLP/buone)",Frase 1,Frase 2,TRUE
+120,Yes/no question,Frase 2,Frase 2,FALSE
+120,Counter-expectational,Frase 2,Frase 2,FALSE
+120,Rhetorical question,Frase 1,Frase 1,FALSE
+120,Surprise-disapproval question,Frase 2,Frase 2,FALSE
+120,Declarative biased question,Frase 2,Frase 1,FALSE
+120,Exclamative,Frase 1,Frase 1,FALSE
+120,Can’t-find-the-value-of-x question,Frase 1,Frase 1,FALSE
+120,Subject wh-question,Frase 1,Frase 1,FALSE
+121,Declarative,Frase 1,Frase 1,FALSE
+121,Info-seeking wh-question,Frase 1,Frase 1,FALSE
+121,Info-seeking non-wh question,Frase 2,Frase 2,FALSE
+121,"Disapproval echo-question 
+(wh-to-HLP)",Frase 1,Frase 1,FALSE
+121,Object wh question,Frase 1,Frase 2,FALSE
+121,"Disapproval echo question 
+(wh-to-LLP/tutto)",Frase 2,Frase 2,FALSE
+121,"Disapproval echo question 
+(wh-to-LLP/buone)",Frase 2,Frase 2,FALSE
+121,"Unheard echo question 
+(wh-to-LLP/buone)",Frase 2,Frase 2,TRUE
+121,Yes/no question,Frase 1,Frase 2,FALSE
+121,Counter-expectational,Frase 2,Frase 2,FALSE
+121,Rhetorical question,Frase 1,Frase 1,FALSE
+121,Surprise-disapproval question,Frase 2,Frase 2,FALSE
+121,Declarative biased question,Frase 1,Frase 1,FALSE
+121,Exclamative,Frase 1,Frase 1,FALSE
+121,Can’t-find-the-value-of-x question,Frase 1,Frase 1,FALSE
+121,Subject wh-question,Frase 1,Frase 1,FALSE
+122,Declarative,Frase 1,Frase 1,FALSE
+122,Info-seeking wh-question,Frase 1,Frase 1,FALSE
+122,Info-seeking non-wh question,Frase 1,Frase 2,FALSE
+122,"Disapproval echo-question 
+(wh-to-HLP)",Frase 1,Frase 1,FALSE
+122,Object wh question,Frase 1,Frase 2,FALSE
+122,"Disapproval echo question 
+(wh-to-LLP/tutto)",Frase 2,Frase 2,FALSE
+122,"Disapproval echo question 
+(wh-to-LLP/buone)",Frase 2,Frase 2,FALSE
+122,"Unheard echo question 
+(wh-to-LLP/buone)",Frase 2,Frase 2,TRUE
+122,Yes/no question,Frase 1,Frase 2,FALSE
+122,Counter-expectational,Frase 2,Frase 2,FALSE
+122,Rhetorical question,Frase 1,Frase 1,FALSE
+122,Surprise-disapproval question,Frase 2,Frase 2,FALSE
+122,Declarative biased question,Frase 1,Frase 1,FALSE
+122,Exclamative,Frase 1,Frase 1,FALSE
+122,Can’t-find-the-value-of-x question,Frase 1,Frase 1,FALSE
+122,Subject wh-question,Frase 1,Frase 1,FALSE
+123,Declarative,Frase 1,Frase 1,FALSE
+123,Info-seeking wh-question,Frase 1,Frase 1,FALSE
+123,Info-seeking non-wh question,Frase 2,Frase 2,FALSE
+123,"Disapproval echo-question 
+(wh-to-HLP)",Frase 1,Frase 1,FALSE
+123,Object wh question,Frase 1,Frase 2,FALSE
+123,"Disapproval echo question 
+(wh-to-LLP/tutto)",Frase 2,Frase 2,FALSE
+123,"Disapproval echo question 
+(wh-to-LLP/buone)",Frase 2,Frase 2,FALSE
+123,"Unheard echo question 
+(wh-to-LLP/buone)",Frase 1,Frase 2,TRUE
+123,Yes/no question,Frase 1,Frase 2,FALSE
+123,Counter-expectational,Frase 2,Frase 2,FALSE
+123,Rhetorical question,Frase 1,Frase 1,FALSE
+123,Surprise-disapproval question,Frase 2,Frase 2,FALSE
+123,Declarative biased question,Frase 1,Frase 1,FALSE
+123,Exclamative,Frase 1,Frase 1,FALSE
+123,Can’t-find-the-value-of-x question,Frase 1,Frase 1,FALSE
+123,Subject wh-question,Frase 1,Frase 1,FALSE
+124,Declarative,Frase 1,Frase 1,FALSE
+124,Info-seeking wh-question,Frase 1,Frase 1,FALSE
+124,Info-seeking non-wh question,Frase 1,Frase 2,FALSE
+124,"Disapproval echo-question 
+(wh-to-HLP)",Frase 1,Frase 1,FALSE
+124,Object wh question,Frase 1,Frase 2,FALSE
+124,"Disapproval echo question 
+(wh-to-LLP/tutto)",Frase 2,Frase 2,FALSE
+124,"Disapproval echo question 
+(wh-to-LLP/buone)",Frase 2,Frase 2,FALSE
+124,"Unheard echo question 
+(wh-to-LLP/buone)",Frase 1,Frase 2,TRUE
+124,Yes/no question,Frase 2,Frase 2,FALSE
+124,Counter-expectational,Frase 2,Frase 2,FALSE
+124,Rhetorical question,Frase 1,Frase 1,FALSE
+124,Surprise-disapproval question,Frase 2,Frase 2,FALSE
+124,Declarative biased question,Frase 1,Frase 1,FALSE
+124,Exclamative,Frase 1,Frase 1,FALSE
+124,Can’t-find-the-value-of-x question,Frase 1,Frase 1,FALSE
+124,Subject wh-question,Frase 2,Frase 1,FALSE
+125,Declarative,Frase 1,Frase 1,FALSE
+125,Info-seeking wh-question,Frase 1,Frase 1,FALSE
+125,Info-seeking non-wh question,Frase 2,Frase 2,FALSE
+125,"Disapproval echo-question 
+(wh-to-HLP)",Frase 1,Frase 1,FALSE
+125,Object wh question,Frase 1,Frase 2,FALSE
+125,"Disapproval echo question 
+(wh-to-LLP/tutto)",Frase 2,Frase 2,FALSE
+125,"Disapproval echo question 
+(wh-to-LLP/buone)",Frase 2,Frase 2,FALSE
+125,"Unheard echo question 
+(wh-to-LLP/buone)",Frase 1,Frase 2,TRUE
+125,Yes/no question,Frase 2,Frase 2,FALSE
+125,Counter-expectational,Frase 2,Frase 2,FALSE
+125,Rhetorical question,Frase 1,Frase 1,FALSE
+125,Surprise-disapproval question,Frase 2,Frase 2,FALSE
+125,Declarative biased question,Frase 1,Frase 1,FALSE
+125,Exclamative,Frase 1,Frase 1,FALSE
+125,Can’t-find-the-value-of-x question,Frase 1,Frase 1,FALSE
+125,Subject wh-question,Frase 1,Frase 1,FALSE
+126,Declarative,Frase 1,Frase 1,FALSE
+126,Info-seeking wh-question,Frase 1,Frase 1,FALSE
+126,Info-seeking non-wh question,Frase 1,Frase 2,FALSE
+126,"Disapproval echo-question 
+(wh-to-HLP)",Frase 1,Frase 1,FALSE
+126,Object wh question,Frase 1,Frase 2,FALSE
+126,"Disapproval echo question 
+(wh-to-LLP/tutto)",Frase 2,Frase 2,FALSE
+126,"Disapproval echo question 
+(wh-to-LLP/buone)",Frase 2,Frase 2,FALSE
+126,"Unheard echo question 
+(wh-to-LLP/buone)",Frase 1,Frase 2,TRUE
+126,Yes/no question,Frase 2,Frase 2,FALSE
+126,Counter-expectational,Frase 2,Frase 2,FALSE
+126,Rhetorical question,Frase 1,Frase 1,FALSE
+126,Surprise-disapproval question,Frase 2,Frase 2,FALSE
+126,Declarative biased question,Frase 2,Frase 1,FALSE
+126,Exclamative,Frase 1,Frase 1,FALSE
+126,Can’t-find-the-value-of-x question,Frase 1,Frase 1,FALSE
+126,Subject wh-question,Frase 1,Frase 1,FALSE
+127,Declarative,Frase 2,Frase 1,FALSE
+127,Info-seeking wh-question,Frase 1,Frase 1,FALSE
+127,Info-seeking non-wh question,Frase 1,Frase 2,FALSE
+127,"Disapproval echo-question 
+(wh-to-HLP)",Frase 1,Frase 1,FALSE
+127,Object wh question,Frase 2,Frase 2,FALSE
+127,"Disapproval echo question 
+(wh-to-LLP/tutto)",Frase 2,Frase 2,FALSE
+127,"Disapproval echo question 
+(wh-to-LLP/buone)",Frase 2,Frase 2,FALSE
+127,"Unheard echo question 
+(wh-to-LLP/buone)",Frase 1,Frase 2,TRUE
+127,Yes/no question,Frase 1,Frase 2,FALSE
+127,Counter-expectational,Frase 2,Frase 2,FALSE
+127,Rhetorical question,Frase 1,Frase 1,FALSE
+127,Surprise-disapproval question,Frase 2,Frase 2,FALSE
+127,Declarative biased question,Frase 1,Frase 1,FALSE
+127,Exclamative,Frase 1,Frase 1,FALSE
+127,Can’t-find-the-value-of-x question,Frase 1,Frase 1,FALSE
+127,Subject wh-question,Frase 1,Frase 1,FALSE
+128,Declarative,Frase 1,Frase 1,FALSE
+128,Info-seeking wh-question,Frase 2,Frase 1,FALSE
+128,Info-seeking non-wh question,Frase 1,Frase 2,FALSE
+128,"Disapproval echo-question 
+(wh-to-HLP)",Frase 1,Frase 1,FALSE
+128,Object wh question,Frase 1,Frase 2,FALSE
+128,"Disapproval echo question 
+(wh-to-LLP/tutto)",Frase 2,Frase 2,FALSE
+128,"Disapproval echo question 
+(wh-to-LLP/buone)",Frase 2,Frase 2,FALSE
+128,"Unheard echo question 
+(wh-to-LLP/buone)",Frase 1,Frase 2,TRUE
+128,Yes/no question,Frase 2,Frase 2,FALSE
+128,Counter-expectational,Frase 2,Frase 2,FALSE
+128,Rhetorical question,Frase 1,Frase 1,FALSE
+128,Surprise-disapproval question,Frase 2,Frase 2,FALSE
+128,Declarative biased question,Frase 2,Frase 1,FALSE
+128,Exclamative,Frase 1,Frase 1,FALSE
+128,Can’t-find-the-value-of-x question,Frase 1,Frase 1,FALSE
+128,Subject wh-question,Frase 1,Frase 1,FALSE
+129,Declarative,Frase 1,Frase 1,FALSE
+129,Info-seeking wh-question,Frase 1,Frase 1,FALSE
+129,Info-seeking non-wh question,Frase 2,Frase 2,FALSE
+129,"Disapproval echo-question 
+(wh-to-HLP)",Frase 1,Frase 1,FALSE
+129,Object wh question,Frase 1,Frase 2,FALSE
+129,"Disapproval echo question 
+(wh-to-LLP/tutto)",Frase 2,Frase 2,FALSE
+129,"Disapproval echo question 
+(wh-to-LLP/buone)",Frase 2,Frase 2,FALSE
+129,"Unheard echo question 
+(wh-to-LLP/buone)",Frase 1,Frase 2,TRUE
+129,Yes/no question,Frase 2,Frase 2,FALSE
+129,Counter-expectational,Frase 2,Frase 2,FALSE
+129,Rhetorical question,Frase 1,Frase 1,FALSE
+129,Surprise-disapproval question,Frase 2,Frase 2,FALSE
+129,Declarative biased question,Frase 1,Frase 1,FALSE
+129,Exclamative,Frase 1,Frase 1,FALSE
+129,Can’t-find-the-value-of-x question,Frase 1,Frase 1,FALSE
+129,Subject wh-question,Frase 1,Frase 1,FALSE
+130,Declarative,Frase 1,Frase 1,FALSE
+130,Info-seeking wh-question,Frase 1,Frase 1,FALSE
+130,Info-seeking non-wh question,Frase 2,Frase 2,FALSE
+130,"Disapproval echo-question 
+(wh-to-HLP)",Frase 1,Frase 1,FALSE
+130,Object wh question,Frase 2,Frase 2,FALSE
+130,"Disapproval echo question 
+(wh-to-LLP/tutto)",Frase 2,Frase 2,FALSE
+130,"Disapproval echo question 
+(wh-to-LLP/buone)",Frase 2,Frase 2,FALSE
+130,"Unheard echo question 
+(wh-to-LLP/buone)",Frase 1,Frase 2,TRUE
+130,Yes/no question,Frase 1,Frase 2,FALSE
+130,Counter-expectational,Frase 2,Frase 2,FALSE
+130,Rhetorical question,Frase 1,Frase 1,FALSE
+130,Surprise-disapproval question,Frase 2,Frase 2,FALSE
+130,Declarative biased question,Frase 1,Frase 1,FALSE
+130,Exclamative,Frase 1,Frase 1,FALSE
+130,Can’t-find-the-value-of-x question,Frase 1,Frase 1,FALSE
+130,Subject wh-question,Frase 1,Frase 1,FALSE
+131,Declarative,Frase 2,Frase 1,FALSE
+131,Info-seeking wh-question,Frase 1,Frase 1,FALSE
+131,Info-seeking non-wh question,Frase 2,Frase 2,FALSE
+131,"Disapproval echo-question 
+(wh-to-HLP)",Frase 1,Frase 1,FALSE
+131,Object wh question,Frase 1,Frase 2,FALSE
+131,"Disapproval echo question 
+(wh-to-LLP/tutto)",Frase 1,Frase 2,FALSE
+131,"Disapproval echo question 
+(wh-to-LLP/buone)",Frase 2,Frase 2,FALSE
+131,"Unheard echo question 
+(wh-to-LLP/buone)",Frase 1,Frase 2,TRUE
+131,Yes/no question,Frase 2,Frase 2,FALSE
+131,Counter-expectational,Frase 2,Frase 2,FALSE
+131,Rhetorical question,Frase 2,Frase 1,FALSE
+131,Surprise-disapproval question,Frase 2,Frase 2,FALSE
+131,Declarative biased question,Frase 1,Frase 1,FALSE
+131,Exclamative,Frase 1,Frase 1,FALSE
+131,Can’t-find-the-value-of-x question,Frase 1,Frase 1,FALSE
+131,Subject wh-question,Frase 2,Frase 1,FALSE
+132,Declarative,Frase 1,Frase 1,FALSE
+132,Info-seeking wh-question,Frase 1,Frase 1,FALSE
+132,Info-seeking non-wh question,Frase 2,Frase 2,FALSE
+132,"Disapproval echo-question 
+(wh-to-HLP)",Frase 1,Frase 1,FALSE
+132,Object wh question,Frase 1,Frase 2,FALSE
+132,"Disapproval echo question 
+(wh-to-LLP/tutto)",Frase 2,Frase 2,FALSE
+132,"Disapproval echo question 
+(wh-to-LLP/buone)",Frase 2,Frase 2,FALSE
+132,"Unheard echo question 
+(wh-to-LLP/buone)",Frase 1,Frase 2,TRUE
+132,Yes/no question,Frase 2,Frase 2,FALSE
+132,Counter-expectational,Frase 2,Frase 2,FALSE
+132,Rhetorical question,Frase 1,Frase 1,FALSE
+132,Surprise-disapproval question,Frase 2,Frase 2,FALSE
+132,Declarative biased question,Frase 1,Frase 1,FALSE
+132,Exclamative,Frase 1,Frase 1,FALSE
+132,Can’t-find-the-value-of-x question,Frase 1,Frase 1,FALSE
+132,Subject wh-question,Frase 1,Frase 1,FALSE
+133,Declarative,Frase 1,Frase 1,FALSE
+133,Info-seeking wh-question,Frase 1,Frase 1,FALSE
+133,Info-seeking non-wh question,Frase 1,Frase 2,FALSE
+133,"Disapproval echo-question 
+(wh-to-HLP)",Frase 1,Frase 1,FALSE
+133,Object wh question,Frase 1,Frase 2,FALSE
+133,"Disapproval echo question 
+(wh-to-LLP/tutto)",Frase 2,Frase 2,FALSE
+133,"Disapproval echo question 
+(wh-to-LLP/buone)",Frase 2,Frase 2,FALSE
+133,"Unheard echo question 
+(wh-to-LLP/buone)",Frase 1,Frase 2,TRUE
+133,Yes/no question,Frase 2,Frase 2,FALSE
+133,Counter-expectational,Frase 2,Frase 2,FALSE
+133,Rhetorical question,Frase 1,Frase 1,FALSE
+133,Surprise-disapproval question,Frase 2,Frase 2,FALSE
+133,Declarative biased question,Frase 2,Frase 1,FALSE
+133,Exclamative,Frase 1,Frase 1,FALSE
+133,Can’t-find-the-value-of-x question,Frase 1,Frase 1,FALSE
+133,Subject wh-question,Frase 1,Frase 1,FALSE
+134,Declarative,Frase 1,Frase 1,FALSE
+134,Info-seeking wh-question,Frase 1,Frase 1,FALSE
+134,Info-seeking non-wh question,Frase 1,Frase 2,FALSE
+134,"Disapproval echo-question 
+(wh-to-HLP)",Frase 1,Frase 1,FALSE
+134,Object wh question,Frase 1,Frase 2,FALSE
+134,"Disapproval echo question 
+(wh-to-LLP/tutto)",Frase 2,Frase 2,FALSE
+134,"Disapproval echo question 
+(wh-to-LLP/buone)",Frase 2,Frase 2,FALSE
+134,"Unheard echo question 
+(wh-to-LLP/buone)",Frase 2,Frase 2,TRUE
+134,Yes/no question,Frase 2,Frase 2,FALSE
+134,Counter-expectational,Frase 2,Frase 2,FALSE
+134,Rhetorical question,Frase 1,Frase 1,FALSE
+134,Surprise-disapproval question,Frase 2,Frase 2,FALSE
+134,Declarative biased question,Frase 1,Frase 1,FALSE
+134,Exclamative,Frase 1,Frase 1,FALSE
+134,Can’t-find-the-value-of-x question,Frase 1,Frase 1,FALSE
+134,Subject wh-question,Frase 1,Frase 1,FALSE
+135,Declarative,Frase 1,Frase 1,FALSE
+135,Info-seeking wh-question,Frase 1,Frase 1,FALSE
+135,Info-seeking non-wh question,Frase 2,Frase 2,FALSE
+135,"Disapproval echo-question 
+(wh-to-HLP)",Frase 1,Frase 1,FALSE
+135,Object wh question,Frase 1,Frase 2,FALSE
+135,"Disapproval echo question 
+(wh-to-LLP/tutto)",Frase 2,Frase 2,FALSE
+135,"Disapproval echo question 
+(wh-to-LLP/buone)",Frase 1,Frase 2,FALSE
+135,"Unheard echo question 
+(wh-to-LLP/buone)",Frase 1,Frase 2,TRUE
+135,Yes/no question,Frase 2,Frase 2,FALSE
+135,Counter-expectational,Frase 2,Frase 2,FALSE
+135,Rhetorical question,Frase 1,Frase 1,FALSE
+135,Surprise-disapproval question,Frase 1,Frase 2,FALSE
+135,Declarative biased question,Frase 1,Frase 1,FALSE
+135,Exclamative,Frase 1,Frase 1,FALSE
+135,Can’t-find-the-value-of-x question,Frase 1,Frase 1,FALSE
+135,Subject wh-question,Frase 2,Frase 1,FALSE
+136,Declarative,Frase 1,Frase 1,FALSE
+136,Info-seeking wh-question,Frase 1,Frase 1,FALSE
+136,Info-seeking non-wh question,Frase 2,Frase 2,FALSE
+136,"Disapproval echo-question 
+(wh-to-HLP)",Frase 1,Frase 1,FALSE
+136,Object wh question,Frase 1,Frase 2,FALSE
+136,"Disapproval echo question 
+(wh-to-LLP/tutto)",Frase 2,Frase 2,FALSE
+136,"Disapproval echo question 
+(wh-to-LLP/buone)",Frase 2,Frase 2,FALSE
+136,"Unheard echo question 
+(wh-to-LLP/buone)",Frase 1,Frase 2,TRUE
+136,Yes/no question,Frase 2,Frase 2,FALSE
+136,Counter-expectational,Frase 2,Frase 2,FALSE
+136,Rhetorical question,Frase 1,Frase 1,FALSE
+136,Surprise-disapproval question,Frase 2,Frase 2,FALSE
+136,Declarative biased question,Frase 1,Frase 1,FALSE
+136,Exclamative,Frase 1,Frase 1,FALSE
+136,Can’t-find-the-value-of-x question,Frase 1,Frase 1,FALSE
+136,Subject wh-question,Frase 1,Frase 1,FALSE
+137,Declarative,Frase 1,Frase 1,FALSE
+137,Info-seeking wh-question,Frase 1,Frase 1,FALSE
+137,Info-seeking non-wh question,Frase 1,Frase 2,FALSE
+137,"Disapproval echo-question 
+(wh-to-HLP)",Frase 1,Frase 1,FALSE
+137,Object wh question,Frase 1,Frase 2,FALSE
+137,"Disapproval echo question 
+(wh-to-LLP/tutto)",Frase 2,Frase 2,FALSE
+137,"Disapproval echo question 
+(wh-to-LLP/buone)",Frase 2,Frase 2,FALSE
+137,"Unheard echo question 
+(wh-to-LLP/buone)",Frase 1,Frase 2,TRUE
+137,Yes/no question,Frase 2,Frase 2,FALSE
+137,Counter-expectational,Frase 2,Frase 2,FALSE
+137,Rhetorical question,Frase 1,Frase 1,FALSE
+137,Surprise-disapproval question,Frase 2,Frase 2,FALSE
+137,Declarative biased question,Frase 2,Frase 1,FALSE
+137,Exclamative,Frase 1,Frase 1,FALSE
+137,Can’t-find-the-value-of-x question,Frase 1,Frase 1,FALSE
+137,Subject wh-question,Frase 2,Frase 1,FALSE
+138,Declarative,Frase 1,Frase 1,FALSE
+138,Info-seeking wh-question,Frase 2,Frase 1,FALSE
+138,Info-seeking non-wh question,Frase 2,Frase 2,FALSE
+138,"Disapproval echo-question 
+(wh-to-HLP)",Frase 1,Frase 1,FALSE
+138,Object wh question,Frase 1,Frase 2,FALSE
+138,"Disapproval echo question 
+(wh-to-LLP/tutto)",Frase 2,Frase 2,FALSE
+138,"Disapproval echo question 
+(wh-to-LLP/buone)",Frase 2,Frase 2,FALSE
+138,"Unheard echo question 
+(wh-to-LLP/buone)",Frase 1,Frase 2,TRUE
+138,Yes/no question,Frase 2,Frase 2,FALSE
+138,Counter-expectational,Frase 2,Frase 2,FALSE
+138,Rhetorical question,Frase 1,Frase 1,FALSE
+138,Surprise-disapproval question,Frase 2,Frase 2,FALSE
+138,Declarative biased question,Frase 1,Frase 1,FALSE
+138,Exclamative,Frase 1,Frase 1,FALSE
+138,Can’t-find-the-value-of-x question,Frase 1,Frase 1,FALSE
+138,Subject wh-question,Frase 1,Frase 1,FALSE
+139,Declarative,Frase 1,Frase 1,FALSE
+139,Info-seeking wh-question,Frase 1,Frase 1,FALSE
+139,Info-seeking non-wh question,Frase 2,Frase 2,FALSE
+139,"Disapproval echo-question 
+(wh-to-HLP)",Frase 1,Frase 1,FALSE
+139,Object wh question,Frase 1,Frase 2,FALSE
+139,"Disapproval echo question 
+(wh-to-LLP/tutto)",Frase 2,Frase 2,FALSE
+139,"Disapproval echo question 
+(wh-to-LLP/buone)",Frase 2,Frase 2,FALSE
+139,"Unheard echo question 
+(wh-to-LLP/buone)",Frase 2,Frase 2,TRUE
+139,Yes/no question,Frase 2,Frase 2,FALSE
+139,Counter-expectational,Frase 1,Frase 2,FALSE
+139,Rhetorical question,Frase 1,Frase 1,FALSE
+139,Surprise-disapproval question,Frase 2,Frase 2,FALSE
+139,Declarative biased question,Frase 2,Frase 1,FALSE
+139,Exclamative,Frase 1,Frase 1,FALSE
+139,Can’t-find-the-value-of-x question,Frase 2,Frase 1,FALSE
+139,Subject wh-question,Frase 2,Frase 1,FALSE
+140,Declarative,Frase 1,Frase 1,FALSE
+140,Info-seeking wh-question,Frase 1,Frase 1,FALSE
+140,Info-seeking non-wh question,Frase 2,Frase 2,FALSE
+140,"Disapproval echo-question 
+(wh-to-HLP)",Frase 1,Frase 1,FALSE
+140,Object wh question,Frase 2,Frase 2,FALSE
+140,"Disapproval echo question 
+(wh-to-LLP/tutto)",Frase 2,Frase 2,FALSE
+140,"Disapproval echo question 
+(wh-to-LLP/buone)",Frase 2,Frase 2,FALSE
+140,"Unheard echo question 
+(wh-to-LLP/buone)",Frase 2,Frase 2,TRUE
+140,Yes/no question,Frase 2,Frase 2,FALSE
+140,Counter-expectational,Frase 2,Frase 2,FALSE
+140,Rhetorical question,Frase 1,Frase 1,FALSE
+140,Surprise-disapproval question,Frase 2,Frase 2,FALSE
+140,Declarative biased question,Frase 2,Frase 1,FALSE
+140,Exclamative,Frase 1,Frase 1,FALSE
+140,Can’t-find-the-value-of-x question,Frase 1,Frase 1,FALSE
+140,Subject wh-question,Frase 1,Frase 1,FALSE
+141,Declarative,Frase 1,Frase 1,FALSE
+141,Info-seeking wh-question,Frase 1,Frase 1,FALSE
+141,Info-seeking non-wh question,Frase 2,Frase 2,FALSE
+141,"Disapproval echo-question 
+(wh-to-HLP)",Frase 1,Frase 1,FALSE
+141,Object wh question,Frase 2,Frase 2,FALSE
+141,"Disapproval echo question 
+(wh-to-LLP/tutto)",Frase 2,Frase 2,FALSE
+141,"Disapproval echo question 
+(wh-to-LLP/buone)",Frase 2,Frase 2,FALSE
+141,"Unheard echo question 
+(wh-to-LLP/buone)",Frase 1,Frase 2,TRUE
+141,Yes/no question,Frase 1,Frase 2,FALSE
+141,Counter-expectational,Frase 2,Frase 2,FALSE
+141,Rhetorical question,Frase 1,Frase 1,FALSE
+141,Surprise-disapproval question,Frase 2,Frase 2,FALSE
+141,Declarative biased question,Frase 2,Frase 1,FALSE
+141,Exclamative,Frase 1,Frase 1,FALSE
+141,Can’t-find-the-value-of-x question,Frase 1,Frase 1,FALSE
+141,Subject wh-question,Frase 1,Frase 1,FALSE
+142,Declarative,Frase 1,Frase 1,FALSE
+142,Info-seeking wh-question,Frase 1,Frase 1,FALSE
+142,Info-seeking non-wh question,Frase 1,Frase 2,FALSE
+142,"Disapproval echo-question 
+(wh-to-HLP)",Frase 1,Frase 1,FALSE
+142,Object wh question,Frase 2,Frase 2,FALSE
+142,"Disapproval echo question 
+(wh-to-LLP/tutto)",Frase 2,Frase 2,FALSE
+142,"Disapproval echo question 
+(wh-to-LLP/buone)",Frase 2,Frase 2,FALSE
+142,"Unheard echo question 
+(wh-to-LLP/buone)",Frase 2,Frase 2,TRUE
+142,Yes/no question,Frase 1,Frase 2,FALSE
+142,Counter-expectational,Frase 2,Frase 2,FALSE
+142,Rhetorical question,Frase 1,Frase 1,FALSE
+142,Surprise-disapproval question,Frase 2,Frase 2,FALSE
+142,Declarative biased question,Frase 1,Frase 1,FALSE
+142,Exclamative,Frase 1,Frase 1,FALSE
+142,Can’t-find-the-value-of-x question,Frase 1,Frase 1,FALSE
+142,Subject wh-question,Frase 1,Frase 1,FALSE
+143,Declarative,Frase 1,Frase 1,FALSE
+143,Info-seeking wh-question,Frase 1,Frase 1,FALSE
+143,Info-seeking non-wh question,Frase 1,Frase 2,FALSE
+143,"Disapproval echo-question 
+(wh-to-HLP)",Frase 1,Frase 1,FALSE
+143,Object wh question,Frase 1,Frase 2,FALSE
+143,"Disapproval echo question 
+(wh-to-LLP/tutto)",Frase 1,Frase 2,FALSE
+143,"Disapproval echo question 
+(wh-to-LLP/buone)",Frase 2,Frase 2,FALSE
+143,"Unheard echo question 
+(wh-to-LLP/buone)",Frase 1,Frase 2,TRUE
+143,Yes/no question,Frase 2,Frase 2,FALSE
+143,Counter-expectational,Frase 2,Frase 2,FALSE
+143,Rhetorical question,Frase 1,Frase 1,FALSE
+143,Surprise-disapproval question,Frase 2,Frase 2,FALSE
+143,Declarative biased question,Frase 1,Frase 1,FALSE
+143,Exclamative,Frase 1,Frase 1,FALSE
+143,Can’t-find-the-value-of-x question,Frase 1,Frase 1,FALSE
+143,Subject wh-question,Frase 1,Frase 1,FALSE
+144,Declarative,Frase 1,Frase 1,FALSE
+144,Info-seeking wh-question,Frase 1,Frase 1,FALSE
+144,Info-seeking non-wh question,Frase 2,Frase 2,FALSE
+144,"Disapproval echo-question 
+(wh-to-HLP)",Frase 1,Frase 1,FALSE
+144,Object wh question,Frase 2,Frase 2,FALSE
+144,"Disapproval echo question 
+(wh-to-LLP/tutto)",Frase 2,Frase 2,FALSE
+144,"Disapproval echo question 
+(wh-to-LLP/buone)",Frase 2,Frase 2,FALSE
+144,"Unheard echo question 
+(wh-to-LLP/buone)",Frase 2,Frase 2,TRUE
+144,Yes/no question,Frase 2,Frase 2,FALSE
+144,Counter-expectational,Frase 2,Frase 2,FALSE
+144,Rhetorical question,Frase 1,Frase 1,FALSE
+144,Surprise-disapproval question,Frase 2,Frase 2,FALSE
+144,Declarative biased question,Frase 1,Frase 1,FALSE
+144,Exclamative,Frase 1,Frase 1,FALSE
+144,Can’t-find-the-value-of-x question,Frase 1,Frase 1,FALSE
+144,Subject wh-question,Frase 1,Frase 1,FALSE
+145,Declarative,Frase 1,Frase 1,FALSE
+145,Info-seeking wh-question,Frase 1,Frase 1,FALSE
+145,Info-seeking non-wh question,Frase 2,Frase 2,FALSE
+145,"Disapproval echo-question 
+(wh-to-HLP)",Frase 1,Frase 1,FALSE
+145,Object wh question,Frase 2,Frase 2,FALSE
+145,"Disapproval echo question 
+(wh-to-LLP/tutto)",Frase 2,Frase 2,FALSE
+145,"Disapproval echo question 
+(wh-to-LLP/buone)",Frase 2,Frase 2,FALSE
+145,"Unheard echo question 
+(wh-to-LLP/buone)",Frase 2,Frase 2,TRUE
+145,Yes/no question,Frase 2,Frase 2,FALSE
+145,Counter-expectational,Frase 2,Frase 2,FALSE
+145,Rhetorical question,Frase 1,Frase 1,FALSE
+145,Surprise-disapproval question,Frase 2,Frase 2,FALSE
+145,Declarative biased question,Frase 1,Frase 1,FALSE
+145,Exclamative,Frase 1,Frase 1,FALSE
+145,Can’t-find-the-value-of-x question,Frase 1,Frase 1,FALSE
+145,Subject wh-question,Frase 1,Frase 1,FALSE
